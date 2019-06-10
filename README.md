@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/zidatalab/zidatalab.github.io/master/logo_zi_data_science_color.png | width=200)
+<img src="https://raw.githubusercontent.com/zidatalab/zidatalab.github.io/master/logo_zi_data_science_color.png" width="150">
 
 ## Zi Data Science Lab github repository
 
