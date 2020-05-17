@@ -10,3 +10,4 @@ title: "Our Team"
 	title="Lars" width="100"/></div>  
 **Lars E. Kroll** \
 Head of Lab
+

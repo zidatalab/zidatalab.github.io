@@ -1,5 +1,4 @@
 # /_data/authors.yml
-
 Lars:
   name        : "Dr. Lars Eric Kroll"
   bio         : "Head of Lab"
@@ -8,3 +7,8 @@ Lars:
       - label: "Twitter"
         icon: "fab fa-fw fa-twitter-square"
         url: "https://twitter.com/l_kroll"
+Edgar:
+  name        : "Edgar"
+
+Anja:
+  name        : "Edgar"

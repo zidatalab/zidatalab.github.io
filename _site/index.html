@@ -25,7 +25,7 @@
 
 
 
-  <meta property="og:image" content="https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=3&amp;h=350&amp;w=1280">
+  <meta property="og:image" content="http://localhost:4000/assets/images/pexels-photo-373543.jpeg">
 
 
 
@@ -95,13 +95,15 @@
 
     <!-- start custom head snippets -->
 
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Open+Sans:wght@600&display=swap" rel="stylesheet">
+
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
 
 <!-- end custom head snippets -->
 
   </head>
 
-  <body class="layout--home">
+  <body class="layout--single">
     <nav class="skip-links">
   <h2 class="screen-reader-text">Skip links</h2>
   <ul>
@@ -127,10 +129,6 @@
           
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
-              <a href="/projects/">Projects</a>
-            </li><li class="masthead__menu-item">
-              <a href="/team/">Team</a>
-            </li><li class="masthead__menu-item">
               <a href="/about/">About</a>
             </li></ul>
         
@@ -156,7 +154,7 @@
 
 
 <div class="page__hero--overlay"
-  style="background-color: #5e616c40; background-image: url('https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=350&w=1280');"
+  style="background-color: #5e616c40; background-image: url('/assets/images/pexels-photo-373543.jpeg');"
 >
   
     <div class="wrapper">
@@ -183,48 +181,46 @@
   
 
 
-  <div class="archive">
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
     
-    <p>The Zi Data Science Lab is a team inside the Central Institute of Ambulatory Care (Zi) in Germany.</p>
+    
+    
+    
+
+    <div class="page__inner-wrap">
+      
+
+      <section class="page__content" itemprop="text">
+        
+        <p>The Zi Data Science Lab is a team inside the Central Institute of Ambulatory Care (Zi) in Germany.</p>
 
 <h3 id="mission">Mission</h3>
 
-<p>Our mission is to use modern techniques to assist ambulatory care in Germany. Our Research Interests are focussed on analysis of claims data.</p>
+<p>Our mission is to use modern techniques to assist ambulatory care in Germany.</p>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
 
 
-<h3 class="archive__subtitle">News</h3>
+        
+      </footer>
 
+      
 
+      
+    </div>
 
-
-  
-
-
-
-<div class="list__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     
-    <p>
-      
-      
-        <a href="/Erster-Test/" rel="permalink">We’ve got a lab page
-</a>
-      
-  
-  </p>
-    
-    <p class="archive__item-excerpt" itemprop="description">
-</p>
   </article>
+
+  
+  
 </div>
 
-
-
-
-
-
-  </div>
-</div>
     </div>
 
     
@@ -236,17 +232,14 @@
 <!-- end custom footer snippets -->
         <div class="page__footer-follow">
   <ul class="social-icons">
-    
-      <li><strong>Follow:</strong></li>
-    
+
 
     
 
-    <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2020 Zi Data Science Lab. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2020 Zentralinstitut für die kassenärztliche Versorgung in der Bundesrepublik Deutschland</div>
 
       </footer>
     </div>

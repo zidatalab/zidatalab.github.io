@@ -1,4 +1,4 @@
-I"F
+I"Š
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
@@ -10,10 +10,6 @@
           
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
-              <a href="/projects/">Projects</a>
-            </li><li class="masthead__menu-item">
-              <a href="/team/">Team</a>
-            </li><li class="masthead__menu-item">
               <a href="/about/">About</a>
             </li></ul>
         
