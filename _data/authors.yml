@@ -1,0 +1,10 @@
+# /_data/authors.yml
+
+Lars:
+  name        : "Dr. Lars Eric Kroll"
+  bio         : "Head of Lab"
+  avatar      : "/assets/images/lars.jpg"
+  links:
+      - label: "Twitter"
+        icon: "fab fa-fw fa-twitter-square"
+        url: "https://twitter.com/l_kroll"

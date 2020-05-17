@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "Projects"
+    url: /projects/
+  - title: "Team"
+    url: /team/
+  - title: "About"
+    url: /about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
