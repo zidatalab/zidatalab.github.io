@@ -2,8 +2,9 @@
 layout: archive
 title: "News"
 permalink: /news/
-author_profile: false
 ---
+
+Current news from our lab:
 
 {% capture written_label %}'None'{% endcapture %}
 
