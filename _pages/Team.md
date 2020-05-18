@@ -8,8 +8,6 @@ title: "Our Team"
 These are the people running our lab:
 
 {% for author in site.data.authors %}
-{% assign theauthor = increment authorid %}
-<p>Name: {theauthor} </p>
+    Name: {{ author[1].name }}  
+    Rolle: {{ author[1].bio }}
 {% endfor %}
-
-
