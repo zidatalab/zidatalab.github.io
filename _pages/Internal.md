@@ -15,10 +15,16 @@ The github repository of this site is located here: [https://github.com/zidatala
 
 ### Usage
 
-0. [Learn Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-1. Create your profile under [_data/authors.yml](https://github.com/zidatalab/zidatalab.github.io/blob/master/_data/authors.yml)  [(possible fields here)](https://mmistakes.github.io/minimal-mistakes/docs/authors/)
-2. Add an avatar under [assets/images](https://github.com/zidatalab/zidatalab.github.io/tree/master/assets/images)
-3. Create content under [_posts](https://github.com/zidatalab/zidatalab.github.io/tree/master/_posts) or [_projects](https://github.com/zidatalab/zidatalab.github.io/tree/master/_projects). 
+1. **Create your profile** at [_data/authors.yml](https://github.com/zidatalab/zidatalab.github.io/blob/master/_data/authors.yml)  [(possible fields here)](https://mmistakes.github.io/minimal-mistakes/docs/authors/)
+2. **Add an avatar** if you like at [assets/images](https://github.com/zidatalab/zidatalab.github.io/tree/master/assets/images), note: It needs to be square.
+3. **Create content** 
+3.1 [_posts](https://github.com/zidatalab/zidatalab.github.io/tree/master/_posts) are the main type of content this site is for.
+3.2 [_projects](https://github.com/zidatalab/zidatalab.github.io/tree/master/_projects) are cumulative collections of posts with some background. 
+
+### Ressources
+
+- [Learn Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- This Jekyll blog uses the theme **Minimal Mistakes** that has some additional options, see [Layouts](https://mmistakes.github.io/minimal-mistakes/docs/layouts/), [Helpers](https://mmistakes.github.io/minimal-mistakes/docs/helpers/) and [Utility classes](https://mmistakes.github.io/minimal-mistakes/docs/utility-classes/).
 
 ### Compliance
 
