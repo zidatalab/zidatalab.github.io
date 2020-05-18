@@ -1,6 +1,6 @@
 ---
 author: Lars
-title: We've got a lab page
+title: Our Lab Page is online
 header:
   overlay_image: https://zi.de/fileadmin/images/content/Slider/Slider_Das_Zi_Format.jpg
 excerpt: ""
