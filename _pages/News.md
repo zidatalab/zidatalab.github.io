@@ -1,10 +1,8 @@
 ---
 layout: archive
-title: "News"
+title: "Current News from our Lab"
 permalink: /news/
 ---
-
-Current news from our lab:
 
 {% for collection in site.collections %}
 {% unless collection.output == false or collection.label == "posts" %}
