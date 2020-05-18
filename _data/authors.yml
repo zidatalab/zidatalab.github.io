@@ -1,6 +1,7 @@
 # /_data/authors.yml
 Lars:
-  name        : "Dr. Lars Eric Kroll"
+  name        : "Lars"
+  fullname    : "Dr. Lars Eric Kroll"
   bio         : "Head of Lab"
   avatar      : "/assets/images/lars.jpg"
   links:
@@ -9,4 +10,3 @@ Lars:
         url: "https://twitter.com/l_kroll"
 Test:
   name: "Testname"
-  bio: "I'm just a placeholder"
