@@ -7,8 +7,8 @@ title: "Our Team"
 
 
 {% for author in site.data.authors %}
-  {{  assign the_author = author }}
-  <div>Name: {the_author.name } </div>
+{% increment authorid %}
+  <div>Name: {site.data.authors[authorid].name } </div>
 {% endfor %}
 
 
