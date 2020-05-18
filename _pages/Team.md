@@ -14,6 +14,10 @@ Our team is small but dedicated. If your're interested to collaborate or join, s
 <div class="author__avatar">
 <img src="{{ author[1].avatar }}" alt="{{ author[1].name }}" itemprop="image">    
 </div>
+{% else %}
+<div class="author__avatar">
+<img src="/assets/images/adult-anonymous-art-business-375902.jpg" alt="{{ author[1].name }}" itemprop="image">
+</div>
 {% endif %}
 <p><strong>{{ author[1].name }}</strong><br>
 {% if author[1].bio %}
