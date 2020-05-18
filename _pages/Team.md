@@ -6,7 +6,7 @@ title: "Our Team"
 classes: wide
 ---
 
-Our team is small but dedicated. If your're interested to collaborate or join, speak to [Lars]({{ site.data.authors[lars].links[Twitter]}}).
+Our team is small but dedicated. If your're interested to collaborate or join, speak to [Lars](https://twitter.com/l_kroll).
 
 <div class="teamwrapper">
 {% for author in site.data.authors %}
