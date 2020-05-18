@@ -8,10 +8,15 @@ title: "Our Team"
 These are the people running our lab:
 
 {% for author in site.data.authors %}
-    **{ author[1].name }**
-    {% if author.bio %}
-    <div class="author__bio" itemprop="description">
-        {{ author[1].bio | markdownify }}
-    </div>
-    {% endif %}    
+{% if author[1].avatar %}
+<div class="author__avatar">
+<img src="{{ author.avatar | relative_url }}" alt="{{ author.name }}" itemprop="image">    
+</div>
+{% endif %}
+**{{ author[1].name }}**
+{% if author[1].bio %}
+<div class="author__bio" itemprop="description">
+{{ author[1].bio | markdownify }}
+</div>
+{% endif %}    
 {% endfor %}
