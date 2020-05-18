@@ -9,7 +9,7 @@ title: "Our Team"
 <p>
 {% if author[1].avatar %}
 <div class="author__avatar">
-<img src="{{ author.avatar }}" alt="{{ author.name }}" itemprop="image">    
+<img src="{{ author[1].avatar }}" alt="{{ author[1].name }}" itemprop="image">    
 </div>
 {% endif %}
 **{{ author[1].name }}**
