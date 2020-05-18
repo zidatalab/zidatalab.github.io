@@ -2,7 +2,7 @@
 Lars:
   name        : "Lars"
   fullname    : "Dr. Lars Eric Kroll"
-  bio         : "Head of Lab"
+  bio         : "Lab Head"
   avatar      : "/assets/images/lars.jpg"
   links:
       - label: "Twitter"
