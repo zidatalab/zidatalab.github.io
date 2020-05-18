@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-Overview of current and past Projects:
+This is an overview of the current and past projects of our team:
