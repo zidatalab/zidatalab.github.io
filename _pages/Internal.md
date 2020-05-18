@@ -5,13 +5,15 @@ hidden: true
 permalink: /tippsandtricks/
 ---
 
+## Our Lab pages are hosted on github. 
+
+All changes can be done by lab members via the repository of this site is. It is located here: [https://github.com/zidatalab/zidatalab.github.io](https://github.com/zidatalab/zidatalab.github.io). If you are a lab member and want to contribute ask Lars. 
+
 ### Background
 
 Jekyll is a simple, blog-aware, static site generator for personal, project, or organization sites written in Ruby. 
 
 You can create blog posts and pages with dynamic content. All files can be created as markdown files and published wir github with no HTML needed except for dynamic content. 
-
-The github repository of this site is located here: [https://github.com/zidatalab/zidatalab.github.io](https://github.com/zidatalab/zidatalab.github.io)
 
 ### Usage
 
