@@ -19,3 +19,10 @@ a {
     text-decoration: none;
     font-weight: bolder;
 }
+
+.teamwrapper {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 10px;  
+  align-items: start;
+}
