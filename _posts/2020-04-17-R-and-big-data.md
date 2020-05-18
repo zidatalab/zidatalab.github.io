@@ -9,6 +9,7 @@ read_time: false
 comments: false
 share: false
 related: false
+tags: [Tutorial]
 ---
 
 I made a short german Intro on using R with medium to big datasets. Watch it here:
