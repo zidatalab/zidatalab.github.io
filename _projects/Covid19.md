@@ -3,6 +3,7 @@ type: projects
 layout: single
 author_profile: false
 title: COVID-19 Analysen
+class: wide
 excerpt: "Overview on our Projections, Analysis and Products regarding COVID-19 in Germany"
 ---
 
