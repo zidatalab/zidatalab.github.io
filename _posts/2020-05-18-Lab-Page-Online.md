@@ -2,7 +2,6 @@
 author: Lars
 title: We've got a lab page
 header:
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   overlay_image: https://zi.de/fileadmin/images/content/Slider/Slider_Das_Zi_Format.jpg
 excerpt: ""
 categories: [news] # Pleaser choose from [news,presentation,articles,projects]
