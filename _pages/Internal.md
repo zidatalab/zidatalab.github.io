@@ -13,15 +13,18 @@ You can create blog posts and pages with dynamic content. All files can be creat
 
 The github repository of this site is located here: [https://github.com/zidatalab/zidatalab.github.io](https://github.com/zidatalab/zidatalab.github.io)
 
-### Usage for our Site
+### Usage
 
 0. [Learn Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 1. Create your profile under [_data/authors.yml](https://github.com/zidatalab/zidatalab.github.io/blob/master/_data/authors.yml)  [(possible fields here)](https://mmistakes.github.io/minimal-mistakes/docs/authors/)
 2. Add an avatar under [assets/images](https://github.com/zidatalab/zidatalab.github.io/tree/master/assets/images)
-3. Create content under [_posts](https://github.com/zidatalab/zidatalab.github.io/tree/master/_posts) or [_projects](https://github.com/zidatalab/zidatalab.github.io/tree/master/_projects). Additional files for posts and projects should be stored in *assets/posts/postname/* or *assets/projects/projectname/*
+3. Create content under [_posts](https://github.com/zidatalab/zidatalab.github.io/tree/master/_posts) or [_projects](https://github.com/zidatalab/zidatalab.github.io/tree/master/_projects). 
 
-*Note:*
-*When posting or creating projects, please use metadata as shown in the yaml header of the first post and project!*
+### Compliance
+
+- For no, please commit merge request and do not commit directly to master!
+- When posting or creating projects, please use metadata as shown in the yaml header of the first post and project!
+- Additional files for posts and projects should be stored in *assets/posts/postname/* or *assets/projects/projectname/*
 
 ### Errors suggestions etc.?
 
