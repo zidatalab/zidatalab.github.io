@@ -6,7 +6,6 @@ title: "Our Team"
 ---
 
 {% for author in site.data.authors %}
-<p>
 {% if author[1].avatar %}
 <div class="author__avatar">
 <img src="{{ author[1].avatar }}" alt="{{ author[1].name }}" itemprop="image">    
@@ -16,5 +15,5 @@ title: "Our Team"
 {% if author[1].bio %}
 {{ author[1].bio | markdownify }}
 {% endif %}    
-<p>
+
 {% endfor %}
