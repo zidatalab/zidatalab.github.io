@@ -1,7 +1,6 @@
 ---
-layout: single
+layout: splash
 permalink: /
-hidden: true
 header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Photo credit: [**Prexels**](https://www.pexels.com/photo/abstract-art-blur-bright-373543/)"
