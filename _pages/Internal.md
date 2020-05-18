@@ -1,8 +1,8 @@
 ---
-title: Tipps and Tricks on using Jekyll and Minimal Mistakes
+title: Tipps and Tricks
 layout: single
 hidden: true
-permalink: /internal_tippsandtricks/
+permalink: /tippsandtricks/
 ---
 
 ### Background
