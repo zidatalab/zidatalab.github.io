@@ -8,6 +8,10 @@ title: "Our Team"
 These are the people running our lab:
 
 {% for author in site.data.authors %}
-    Name: {{ author[1].name }}  
-    Rolle: {{ author[1].bio }}
+    **{ author[1].name }**
+    {% if author.bio %}
+    <div class="author__bio" itemprop="description">
+        {{ author[1].bio | markdownify }}
+    </div>
+    {% endif %}    
 {% endfor %}
