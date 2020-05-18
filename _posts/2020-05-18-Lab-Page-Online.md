@@ -1,7 +1,8 @@
 ---
 author: Lars
 title: Our Lab Page is online
-header:
+header: # Only if usefull!
+  overlay_filter: 0.3
   overlay_image: https://zi.de/fileadmin/images/content/Slider/Slider_Das_Zi_Format.jpg
 excerpt: ""
 categories: [news] # Pleaser choose from [news,presentation,articles,projects]
