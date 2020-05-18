@@ -7,4 +7,8 @@ Lars:
       - label: "Twitter"
         icon: "fab fa-fw fa-twitter-square"
         url: "https://twitter.com/l_kroll"
+Anja:
+  name    : "Anja Seidel"
+  bio         : "Data Scientist"
+
         
