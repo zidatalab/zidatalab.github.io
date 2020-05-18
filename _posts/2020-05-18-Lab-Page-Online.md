@@ -6,7 +6,8 @@ header: # Only if usefull!
   overlay_image: https://zi.de/fileadmin/images/content/Slider/Slider_Das_Zi_Format.jpg
 excerpt: ""
 categories: [news] # Pleaser choose from [news,presentations,articles,projects,reports]
-tags: [Lab News]
+tags:
+  - Lab News
 layout: single
 author_profile: true
 read_time: false
