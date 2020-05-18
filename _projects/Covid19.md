@@ -19,7 +19,9 @@ We created two Dashboards with assessments of the current state of COVID-19 in G
 
 **Public Dashboard**
 
-<blockquote class="twitter-tweet"><p lang="de" dir="ltr">Unser <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a>-<a href="https://twitter.com/hashtag/Dashboard?src=hash&amp;ref_src=twsrc%5Etfw">#Dashboard</a> mit den jeweils aktuellen <a href="https://twitter.com/hashtag/Fallzahlen?src=hash&amp;ref_src=twsrc%5Etfw">#Fallzahlen</a>, der <a href="https://twitter.com/hashtag/Reproduktionszahl?src=hash&amp;ref_src=twsrc%5Etfw">#Reproduktionszahl</a> R und der effektiven <a href="https://twitter.com/hashtag/Vorwarnzeit?src=hash&amp;ref_src=twsrc%5Etfw">#Vorwarnzeit</a> (bei R=1,3) bis zu einer drohenden Überlastung des Gesundheitssystems ist jetzt online unter: <a href="https://t.co/DAhhlFW6EF">https://t.co/DAhhlFW6EF</a> bzw. <a href="https://t.co/sZZoqrg9K3">https://t.co/sZZoqrg9K3</a>. <a href="https://t.co/vm1e0gSMFQ">pic.twitter.com/vm1e0gSMFQ</a></p>&mdash; Zentralinstitut für die kassenärztliche Versorgung (@Zi_Berlin) <a href="https://twitter.com/Zi_Berlin/status/1262285667888959488?ref_src=twsrc%5Etfw">May 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+This dashboard is written in `R` and based on `flexdashboard` (only javascript) and hosted on github pages:
+
+<a href="https://www.zidatasciencelab.de/covid19dashboard/Start"><img src="https://pbs.twimg.com/media/EYSI3oVXYAczk2C?format=jpg&name=medium" width=200></a>
 
 **Internal Dashboard**
 
