@@ -5,7 +5,7 @@ header: # Only if usefull!
   overlay_filter: 0.3
   overlay_image: https://zi.de/fileadmin/images/content/Slider/Slider_Das_Zi_Format.jpg
 excerpt: ""
-categories: [news] # Pleaser choose from [news,presentation,articles,projects]
+categories: [news] # Pleaser choose from [news,presentations,articles,projects,reports]
 layout: single
 author_profile: true
 read_time: false
