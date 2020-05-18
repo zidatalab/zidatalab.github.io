@@ -3,13 +3,15 @@ type: projects
 layout: single
 author_profile: false
 title: COVID-19 Analysen
+tags: 
+  - COVID19 # use in posts for this project
 classes: wide
 excerpt: "Overview on our Projections, Analysis and Products regarding COVID-19 in Germany"
 ---
 
 ### Projections
 
-We are projecting COVID-19 in Germany since Mid March 2020. Results may be obtained from our Internal Dashboard for KV-/KBV-Users. Contact us to (gain access)[https://www.zi.de/meta/kontakt-und-anfahrt/].
+We are projecting COVID-19 in Germany since Mid March 2020. Results may be obtained from our Internal Dashboard for KV-/KBV-Users. Contact us to [gain access](https://www.zi.de/meta/kontakt-und-anfahrt/).
 
 ### Dashboards
 
