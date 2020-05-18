@@ -20,12 +20,10 @@ Our team is small but dedicated. If your're interested in collaborating or joini
 <img src="/assets/images/adult-anonymous.jpg" alt="{{ author[1].name }}" itemprop="image">
 </div>
 {% endif %}
-<p>
-<h4>{{ author[1].name }}<h4>
+<h5>{{ author[1].name }}<h5>
 {% if author[1].bio %}
-<em>{{ author[1].bio | markdownify }}</em>
+<p><em>{{ author[1].bio | markdownify }}</em></p>
 {% endif %}    
-</p>
 </div>
 {% endfor %}
 </div>
