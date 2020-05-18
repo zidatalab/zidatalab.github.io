@@ -6,8 +6,9 @@ title: "Our Team"
 ---
 
 
-<div class="author__avatar"><img src="../assets/images/lars.jpg" alt="Lars"
-	title="Lars" width="100"/></div>  
-**Lars E. Kroll** \
-Head of Lab
+{% for author in site.data.authors %}
+  {{  assign the_author = author }}
+  <div>Name: {% the_author.name %} </div>
+{% endfor %}
+
 
