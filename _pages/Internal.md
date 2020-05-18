@@ -11,11 +11,11 @@ Jekyll is a simple, blog-aware, static site generator for personal, project, or 
 
 You can create blog posts and pages with dynamic content. All files can be created as markdown files and published wir github with no HTML needed except for dynamic content. 
 
-The github repository of this site is located here: https://github.com/zidatalab/zidatalab.github.io
+The github repository of this site is located here: [https://github.com/zidatalab/zidatalab.github.io](https://github.com/zidatalab/zidatalab.github.io)
 
 ### Usage for our Site
 
-0. (Learn Markdown)[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
+0. [Learn Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 1. Create your profile under _data/authors.yml [doc on fields](https://mmistakes.github.io/minimal-mistakes/docs/authors/)
 2. Add an avatar under *assets/images*
 3. Create content under _posts or _projects. Additional files for posts and projects should be stored in *assets/posts/postname/* or *assets/projects/projectname/*
