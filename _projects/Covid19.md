@@ -19,9 +19,7 @@ We created two Dashboards with assessments of the current state of COVID-19 in G
 
 **Public Dashboard**
 
-This dashboard is written in `R` and based on `flexdashboard` (only javascript) and hosted on github pages:
-
-<a href="https://www.zidatasciencelab.de/covid19dashboard/Start"><img src="https://pbs.twimg.com/media/EYSI3oVXYAczk2C?format=jpg&name=medium" width=200></a>
+This dashboard is written in `R` and based on `flexdashboard` (only javascript) and hosted on github pages. [See it in action](https://www.zidatasciencelab.de/covid19dashboard/Start").
 
 **Internal Dashboard**
 
