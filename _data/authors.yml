@@ -1,7 +1,6 @@
 # /_data/authors.yml
 Lars:
-  name        : "Lars"
-  fullname    : "Dr. Lars Eric Kroll"
+  name    : "Dr. Lars Eric Kroll"
   bio         : "Lab Head"
   avatar      : "/assets/images/lars.jpg"
   links:
