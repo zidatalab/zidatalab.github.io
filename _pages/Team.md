@@ -8,7 +8,7 @@ title: "Our Team"
 {% for author in site.data.authors %}
 {% if author[1].avatar %}
 <div class="author__avatar">
-<img src="{{ author.avatar | relative_url }}" alt="{{ author.name }}" itemprop="image">    
+<img src="{{ author.avatar }}" alt="{{ author.name }}" itemprop="image">    
 </div>
 {% endif %}
 **{{ author[1].name }}**
