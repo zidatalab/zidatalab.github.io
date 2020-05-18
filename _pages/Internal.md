@@ -16,10 +16,10 @@ The github repository of this site is located here: [https://github.com/zidatala
 ### Usage
 
 1. **Create your profile** at [_data/authors.yml](https://github.com/zidatalab/zidatalab.github.io/blob/master/_data/authors.yml)  [(possible fields here)](https://mmistakes.github.io/minimal-mistakes/docs/authors/)
-2. **Add an avatar** if you like at [assets/images](https://github.com/zidatalab/zidatalab.github.io/tree/master/assets/images), note: It needs to be square.
+2. **Add an avatar** if you like at [assets/images](https://github.com/zidatalab/zidatalab.github.io/tree/master/assets/images). Note: It needs to be square.
 3. **Create content** 
-3.1 [_posts](https://github.com/zidatalab/zidatalab.github.io/tree/master/_posts) are the main type of content this site is for.
-3.2 [_projects](https://github.com/zidatalab/zidatalab.github.io/tree/master/_projects) are cumulative collections of posts with some background. 
+  - [_posts](https://github.com/zidatalab/zidatalab.github.io/tree/master/_posts) are the main type of content this site is for.
+  - [_projects](https://github.com/zidatalab/zidatalab.github.io/tree/master/_projects) are cumulative collections of posts with some background. So projects aren't created all the time..
 
 ### Ressources
 
@@ -38,7 +38,7 @@ Just file an issue or let's talk.
 
 ### Planned Evolution of site
 
-1. Basic Landing site <- We are here
+1. Basic Landing site *<-- We are here*
 2. Add Team Site 
 3. Add Project sites on COVID19 etc.
 4. Add News on Articles, Presentations etc.
