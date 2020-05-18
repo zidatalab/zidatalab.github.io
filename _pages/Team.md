@@ -5,8 +5,6 @@ permalink: /team/
 title: "Our Team"
 ---
 
-These are the people running our lab:
-
 {% for author in site.data.authors %}
 {% if author[1].avatar %}
 <div class="author__avatar">
