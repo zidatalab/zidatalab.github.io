@@ -1,6 +1,7 @@
 ---
 title: Tipps and Tricks on using Jekyll and Minimal Mistakes
 layout: single
+hidden: true
 permalink: /internal_tippsandtricks/
 ---
 
