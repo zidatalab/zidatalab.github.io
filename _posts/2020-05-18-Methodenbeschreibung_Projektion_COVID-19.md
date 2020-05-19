@@ -383,10 +383,6 @@ dieser Trend verändert, auf einem Niveau $$>1$$ einfriert oder sogar
 umkehrt, wenn zu umfassende Lockerungen der Eindämmungsmaßnahmen
 beschlossen werden.
 
-![](/assets/posts/Methodenbeschreibung_Projektion_COVID-19_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
-
-![](/assets/posts/Methodenbeschreibung_Projektion_COVID-19_files/figure-gfm/unnamed-chunk-6-1.png)<!-- -->
-
 # Anhang
 
 ## A Berechnung des Ansteckungsrisikos: Die zeitlich variierende Reproduktionszahl
