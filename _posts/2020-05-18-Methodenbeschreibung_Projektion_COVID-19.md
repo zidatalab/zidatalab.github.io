@@ -2,7 +2,8 @@
 author: Edgar
 title: Methodenbeschreibung Zi COVID-19-Projektion
 excerpt: ""Wir haben auf Basis der aktuellen verfügbaren Fallzahlen für Deutschland, der aktuellen Bevölkerung sowie der Intensiv-Bettenzahl (ICU) in Deutschland, die für die Versorgung von COVID-19-Patienten zur Verfügung steht, die Zahl der inzidenten und prävalenten Patienten fortgeschrieben und abgeschätzt, wie sich diese Entwicklung auf den ambulanten und stationären Leistungsbedarf auswirkt."
-categories: [articles] # Pleaser choose from [news,presentations,articles,projects,reports]
+categories: 
+  - reports # Pleaser choose from [news,presentations,articles,projects,reports]
 tags:
   - covid19
 layout: single
