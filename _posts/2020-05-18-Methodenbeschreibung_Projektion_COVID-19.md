@@ -8,6 +8,7 @@ tags:
   - German
 layout: single
 author_profile: true
+og_image: /assets/posts/Methodenbeschreibung_Projektion_COVID-19_files/figure-gfm/unnamed-chunk-4-1.png
 ---
 
 *Autoren:*
