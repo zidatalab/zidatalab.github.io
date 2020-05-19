@@ -32,7 +32,7 @@ variierenden Reproduktionszahl durchgeführt (Thompson u. a.
 die Projektion verwendet (Kermack und McKendrick
 [1991](#ref-kermack1991contributions)). Die zeitlich variierende
 Reproduktionszahl $$R_t$$ beschreibt die Dynamik der Übertragbarkeit
-einer Infektion **während** einer Epidemie (als Erweiterung der
+einer Infektion *während* einer Epidemie (als Erweiterung der
 Basis-Reproduktionszahl $$R_0$$, die für eine bestimmte Infektion
 konstant ist und die Übertragbarkeit nur zu Beginn der Epidemie
 beschreibt). Das SIR-Modell ist ein klassisches Modell der
