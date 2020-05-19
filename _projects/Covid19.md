@@ -2,7 +2,7 @@
 type: projects
 layout: single
 author_profile: false
-title: COVID-19 Analysen
+title: COVID-19
 tags: 
   - COVID19 # use in posts for this project
 classes: wide
