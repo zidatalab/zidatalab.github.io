@@ -1,6 +1,7 @@
 ---
 layout: single
-title: "Lab News"
+title: "News from the Lab"
+excerpt: "Infos on our ongoing work as it progresses. Everything here is work in progress, for official New head over to [zi.de](zi.de)"
 header:
   overlay_filter: 0.7 # same as adding an opacity of 0.5 to a black background
   caption: "Photo: [**Pexels**](https://www.pexels.com/photo/abstract-art-blur-bright-373543/)"

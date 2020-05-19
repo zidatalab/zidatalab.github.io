@@ -1,11 +1,11 @@
 # main links
 main:
-  #- title: "Lab News"
-  #  url: /categories/
+  - title: "News from the Lab"
+    url: /categories/
   #- title: "Projects"
   #  url: /projects/
-  #- title: "Team"
-  #  url: /team/
+  - title: "Team"
+    url: /team/
   - title: "About"
     url: /about/
  
