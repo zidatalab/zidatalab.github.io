@@ -471,160 +471,38 @@ modellieren.
 
 # Literatur
 
-<div id="refs" class="references">
+AKSAMENTOV, Ivan u. a., 2020. COVID-10 Scenarios [online]. 2020. Verfügbar unter: https://neherlab.org/covid19/
 
-<div id="ref-neher2020covid">
+CORI, Anne u. a., 2013. A New Framework and Software to Estimate Time-Varying Reproduction Numbers During Epidemics. American Journal of Epidemiology. September 2013. Bd. 178, Nr. 9, S. 1505–1512. DOI 10.1093/aje/kwt133
 
-AKSAMENTOV, Ivan u. a., 2020. *COVID-10 Scenarios* \[online\]. 2020.
-Verfügbar unter: <https://neherlab.org/covid19/>
+DGEPI, 2020. Stellungnahme der Deutschen Gesellschaft für Epidemiologie (DGEpi) zur Verbreitung des neuen Coronavirus (SARS-CoV-2) [online]. 2020. Verfügbar unter: https://www.dgepi.de/assets/Stellungnahmen/Stellungnahme2020Corona_DGEpi-21032020-v2.pdf
 
-</div>
+DU, Zhanwei u. a., 2020. The serial interval of COVID-19 from publicly reported confirmed cases. medRxiv. 2020. DOI 10.1101/2020.02.19.20025452
 
-<div id="ref-cori2013r0">
+FERGUSON, Neil M u. a., 2020. Impact of non-pharmaceutical interventions (NPIs) to reduce COVID-19 mortality and healthcare demand.. 2020. DOI 10.25561/77482
 
-CORI, Anne u. a., 2013. A New Framework and Software to Estimate
-Time-Varying Reproduction Numbers During Epidemics. *American Journal of
-Epidemiology*. September 2013. Bd. 178, Nr. 9, S. 1505–1512.
-DOI [10.1093/aje/kwt133](https://doi.org/10.1093/aje/kwt133)
+GRASSELLI, Giacomo u. a., 2020. Critical Care Utilization for the COVID-19 Outbreak in Lombardy, Italy: Early Experience and Forecast During an Emergency Response. JAMA. März 2020. DOI 10.1001/jama.2020.4031
 
-</div>
+GUAN, Wei-jie u. a., 2020. Clinical Characteristics of Coronavirus Disease 2019 in China. New England Journal of Medicine. 2020. DOI 10.1056/NEJMoa2002032
 
-<div id="ref-dgepi2020stellungnahme">
+HEIDEN, Matthias an der und Udo BUCHHOLZ, 2020. Modellierung von Beispielszenarien der SARS-CoV-2-Epidemie 2020 in Deutschland.. 2020. DOI 10.25646/6571.2
 
-DGEPI, 2020. *Stellungnahme der Deutschen Gesellschaft für Epidemiologie
-(DGEpi) zur Verbreitung des neuen Coronavirus (SARS-CoV-2)* \[online\].
-2020. Verfügbar unter:
-<https://www.dgepi.de/assets/Stellungnahmen/Stellungnahme2020Corona_DGEpi-21032020-v2.pdf>
+KERMACK, William O und Anderson G MCKENDRICK, 1991. Contributions to the mathematical theory of epidemics–I. 1927. Bulletin of mathematical biology. 1991. Bd. 53, Nr. 1-2, S. 33—55. DOI 10.1007/bf02464423
 
-</div>
+LACHMANN, Alexander, 2020. Correcting under-reported COVID-19 case numbers. medRxiv. 2020. DOI 10.1101/2020.03.14.20036178
 
-<div id="ref-du2020serial">
+MAGAL, Pierre und Glenn WEBB, 2020. Predicting the number of reported and unreported cases for the COVID-19 epidemic in South Korea, Italy, France and Germany. medRxiv. 2020. DOI 10.1101/2020.03.21.20040154
 
-DU, Zhanwei u. a., 2020. The serial interval of COVID-19 from publicly
-reported confirmed cases. *medRxiv*. 2020.
-DOI [10.1101/2020.02.19.20025452](https://doi.org/10.1101/2020.02.19.20025452)
+MURRAY, Christopher JL und IHME COVID-19 HEALTH SERVICE UTILIZATION FORECASTING TEAM, 2020. Forecasting COVID-19 impact on hospital bed-days, ICU-days, ventilator-days and deaths by US state in the next 4 months. medRxiv. 2020. DOI 10.1101/2020.03.27.20043752
 
-</div>
+NISHIURA, Hiroshi u. a., 2020. Serial interval of novel coronavirus (COVID-19) infections. International Journal of Infectious Diseases. 2020. DOI 10.1016/j.ijid.2020.02.060
 
-<div id="ref-ferguson2020impact">
+THE NCPERE TEAM, 2020. The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19) in China. CCDC Weekly. 2020. Bd. 2, Nr. 8, S. 113–122. DOI 10.3760/cma.j.issn.0254-6450.2020.02.003
 
-FERGUSON, Neil M u. a., 2020. Impact of non-pharmaceutical interventions
-(NPIs) to reduce COVID-19 mortality and healthcare demand.. 2020.
-DOI [10.25561/77482](https://doi.org/10.25561/77482)
+THOMPSON, R. N. u. a., 2019. Improved inference of time-varying reproduction numbers during infectious disease outbreaks. Epidemics. 2019. Bd. 29, S. 100356. DOI https://doi.org/10.1016/j.epidem.2019.100356
 
-</div>
+VERITY, Robert u. a., 2020. Estimates of the severity of coronavirus disease 2019: a model-based analysis. The Lancet infectious diseases. 2020. DOI 10.1016/S1473-3099(20)30243-7
 
-<div id="ref-grasselli2020critical">
+WALKER, Patrick GT u. a., 2020. The Global Impact of COVID-19 and Strategies for Mitigation and Suppression.. 2020. DOI 10.25561/77482
 
-GRASSELLI, Giacomo u. a., 2020. Critical Care Utilization for the
-COVID-19 Outbreak in Lombardy, Italy: Early Experience and Forecast
-During an Emergency Response. *JAMA*. März 2020.
-DOI [10.1001/jama.2020.4031](https://doi.org/10.1001/jama.2020.4031)
-
-</div>
-
-<div id="ref-guan2020clinical">
-
-GUAN, Wei-jie u. a., 2020. Clinical Characteristics of Coronavirus
-Disease 2019 in China. *New England Journal of Medicine*. 2020.
-DOI [10.1056/NEJMoa2002032](https://doi.org/10.1056/NEJMoa2002032)
-
-</div>
-
-<div id="ref-rkimodellierung">
-
-HEIDEN, Matthias an der und Udo BUCHHOLZ, 2020. Modellierung von
-Beispielszenarien der SARS-CoV-2-Epidemie 2020 in Deutschland.. 2020.
-DOI [10.25646/6571.2](https://doi.org/10.25646/6571.2)
-
-</div>
-
-<div id="ref-kermack1991contributions">
-
-KERMACK, William O und Anderson G MCKENDRICK, 1991. Contributions to the
-mathematical theory of epidemics–I. 1927. *Bulletin of mathematical
-biology*. 1991. Bd. 53, Nr. 1-2, S. 33—55.
-DOI [10.1007/bf02464423](https://doi.org/10.1007/bf02464423)
-
-</div>
-
-<div id="ref-lachmann2020correcting">
-
-LACHMANN, Alexander, 2020. Correcting under-reported COVID-19 case
-numbers. *medRxiv*. 2020.
-DOI [10.1101/2020.03.14.20036178](https://doi.org/10.1101/2020.03.14.20036178)
-
-</div>
-
-<div id="ref-magal2020predicting">
-
-MAGAL, Pierre und Glenn WEBB, 2020. Predicting the number of reported
-and unreported cases for the COVID-19 epidemic in South Korea, Italy,
-France and Germany. *medRxiv*. 2020.
-DOI [10.1101/2020.03.21.20040154](https://doi.org/10.1101/2020.03.21.20040154)
-
-</div>
-
-<div id="ref-ihme2020forecasting">
-
-MURRAY, Christopher JL und IHME COVID-19 HEALTH SERVICE UTILIZATION
-FORECASTING TEAM, 2020. Forecasting COVID-19 impact on hospital
-bed-days, ICU-days, ventilator-days and deaths by US state in the next 4
-months. *medRxiv*. 2020.
-DOI [10.1101/2020.03.27.20043752](https://doi.org/10.1101/2020.03.27.20043752)
-
-</div>
-
-<div id="ref-nishiura2020serial">
-
-NISHIURA, Hiroshi u. a., 2020. Serial interval of novel coronavirus
-(COVID-19) infections. *International Journal of Infectious Diseases*.
-2020.
-DOI [10.1016/j.ijid.2020.02.060](https://doi.org/10.1016/j.ijid.2020.02.060)
-
-</div>
-
-<div id="ref-novel2020epidemiological">
-
-THE NCPERE TEAM, 2020. The epidemiological characteristics of an
-outbreak of 2019 novel coronavirus diseases (COVID-19) in China. *CCDC
-Weekly*. 2020. Bd. 2, Nr. 8, S. 113–122.
-DOI [10.3760/cma.j.issn.0254-6450.2020.02.003](https://doi.org/10.3760/cma.j.issn.0254-6450.2020.02.003)
-
-</div>
-
-<div id="ref-thompson2019improved">
-
-THOMPSON, R. N. u. a., 2019. Improved inference of time-varying
-reproduction numbers during infectious disease outbreaks. *Epidemics*.
-2019. Bd. 29, S. 100356.
-DOI [https://doi.org/10.1016/j.epidem.2019.100356](https://doi.org/https://doi.org/10.1016/j.epidem.2019.100356)
-
-</div>
-
-<div id="ref-verity2020estimates">
-
-VERITY, Robert u. a., 2020. Estimates of the severity of coronavirus
-disease 2019: a model-based analysis. *The Lancet infectious diseases*.
-2020.
-DOI [10.1016/S1473-3099(20)30243-7](https://doi.org/10.1016/S1473-3099$$20$$30243-7)
-
-</div>
-
-<div id="ref-walker2020global">
-
-WALKER, Patrick GT u. a., 2020. The Global Impact of COVID-19 and
-Strategies for Mitigation and Suppression.. 2020.
-DOI [10.25561/77482](https://doi.org/10.25561/77482)
-
-</div>
-
-<div id="ref-who2020report">
-
-WHO TEAM, 2020. *Report of the WHO-China Joint Mission on Coronavirus
-Disease 2019 (COVID-19)* \[online\]. 2020. Verfügbar unter:
-<https://www.who.int/publications-detail/report-of-the-who-china-joint-mission-on-coronavirus-disease-2019-(covid-19)>
-
-</div>
-
-</div>
+WHO TEAM, 2020. Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19) [online]. 2020. Verfügbar unter: https://www.who.int/publications-detail/report-of-the-who-china-joint-mission-on-coronavirus-disease-2019-(covid-19)
