@@ -264,6 +264,7 @@ defaults:
       comments: false
       share: false
       related: false
+      mathjax: true
 
 collections:
   projects:
