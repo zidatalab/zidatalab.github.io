@@ -5,6 +5,7 @@ excerpt: ""Wir haben auf Basis der aktuellen verfügbaren Fallzahlen für Deutsc
 categories: [reports] # Pleaser choose from [news,presentations,articles,projects,reports]
 tags:
   - covid19
+  - german
 layout: single
 author_profile: true
 ---
