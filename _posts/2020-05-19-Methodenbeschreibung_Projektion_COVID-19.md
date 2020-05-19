@@ -1,7 +1,7 @@
 ---
 author: edgar
 title: Methodenbeschreibung Zi COVID-19-Projektion
-excerpt: "Based on the current available COVID-19 case numbers for Germany, the current population and the number of intensive care beds (ICU) in Germany available for the care of COVID-19 patients, we have updated the number of resident and prevalent patients and estimated the impact of this development on outpatient and inpatient service requirements."
+excerpt: "[Post in German] Based on the current available COVID-19 case numbers for Germany, the current population and the number of intensive care beds (ICU) in Germany available for the care of COVID-19 patients, we have updated the number of resident and prevalent patients and estimated the impact of this development on outpatient and inpatient service requirements."
 categories: [articles] # Pleaser choose from [news,presentations,articles,projects,reports]
 tags:
   - covid19
