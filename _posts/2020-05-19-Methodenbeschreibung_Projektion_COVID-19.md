@@ -1,10 +1,11 @@
 ---
 author: edgar
 title: Methodenbeschreibung Zi COVID-19-Projektion
-excerpt: ""Wir haben auf Basis der aktuellen verfügbaren Fallzahlen für Deutschland, der aktuellen Bevölkerung sowie der Intensiv-Bettenzahl (ICU) in Deutschland, die für die Versorgung von COVID-19-Patienten zur Verfügung steht, die Zahl der inzidenten und prävalenten Patienten fortgeschrieben und abgeschätzt, wie sich diese Entwicklung auf den ambulanten und stationären Leistungsbedarf auswirkt."
+excerpt: "Based on the current available COVID-19 case numbers for Germany, the current population and the number of intensive care beds (ICU) in Germany available for the care of COVID-19 patients, we have updated the number of resident and prevalent patients and estimated the impact of this development on outpatient and inpatient service requirements."
 categories: [articles] # Pleaser choose from [news,presentations,articles,projects,reports]
 tags:
   - covid19
+  - german
 layout: single
 author_profile: true
 read_time: true
@@ -12,6 +13,10 @@ read_time: true
 
 *Autoren:*
 *Dr. Edgar Steiger, Dr. Mandy Schulz, Dr. Lars Eric Kroll*
+
+# Zusammenfassung
+
+Wir haben auf Basis der aktuellen verfügbaren Fallzahlen für Deutschland, der aktuellen Bevölkerung sowie der Intensiv-Bettenzahl (ICU) in Deutschland, die für die Versorgung von COVID-19-Patienten zur Verfügung steht, die Zahl der inzidenten und prävalenten Patienten fortgeschrieben und abgeschätzt, wie sich diese Entwicklung auf den ambulanten und stationären Leistungsbedarf auswirkt.
 
 # Methoden
 
