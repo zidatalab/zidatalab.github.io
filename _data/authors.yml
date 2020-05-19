@@ -10,6 +10,7 @@ Lars:
 Anja:
   name    : "Anja Seidel"
   bio         : "Data Scientist"
+  avatar      : "/assets/images/robot-min.jpg"
 Edgar:
   name    : "Dr. Edgar Steiger"
   bio         : "Data Scientist"
