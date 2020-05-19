@@ -13,6 +13,8 @@ author_profile: true
 *Autoren:*
 *Dr. Edgar Steiger, Dr. Mandy Schulz, Dr. Lars Eric Kroll*
 
+*Wir haben auf Basis der aktuellen verfügbaren Fallzahlen für Deutschland, der aktuellen Bevölkerung sowie der Intensiv-Bettenzahl (ICU) in Deutschland, die für die Versorgung von COVID-19-Patienten zur Verfügung steht, die Zahl der inzidenten und prävalenten Patienten fortgeschrieben und abgeschätzt, wie sich diese Entwicklung auf den ambulanten und stationären Leistungsbedarf auswirkt.*
+
 # Methoden
 
 ## Projektion der inzidenten Fälle
