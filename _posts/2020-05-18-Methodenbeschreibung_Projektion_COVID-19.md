@@ -182,10 +182,6 @@ bestätigtem Laborbefund.
 
 ![](/assets/posts/Methodenbeschreibung_Projektion_COVID-19_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
 
-![](/assets/posts/Methodenbeschreibung_Projektion_COVID-19_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
-
-![](/assets/posts/Methodenbeschreibung_Projektion_COVID-19_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->![](/assets/posts/Methodenbeschreibung_Projektion_COVID-19_files/figure-gfm/unnamed-chunk-3-2.png)<!-- -->
-
 ## Modellierung
 
 Die Ergebnisse der Prognose hängen entscheidend von den Annahmen zur
