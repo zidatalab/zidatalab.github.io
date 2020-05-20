@@ -13,8 +13,6 @@ share: false
 related: false
 ---
 
-Methodenbeschreibung Zi COVID-19-Projektion
-================
 Dr. Lars Eric Kroll, Dr. Edgar Steiger, Dr. Mandy Schulz
 
   - [Stand](#stand)
