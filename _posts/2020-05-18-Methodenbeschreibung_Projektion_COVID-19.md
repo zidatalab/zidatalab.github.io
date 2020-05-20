@@ -1,3 +1,18 @@
+---
+author: Edgar
+title: Methodenbeschreibung Zi COVID-19-Projektion
+excerpt: "Wie wir unsere Projektionen für das KV-System berechnen."
+categories: [statistics] # Pleaser choose from [news,presentations,articles,projects,reports]
+tags:
+  - covid19
+layout: single
+author_profile: true
+read_time: false
+comments: false
+share: false
+related: false
+---
+
 Methodenbeschreibung Zi COVID-19-Projektion
 ================
 Dr. Lars Eric Kroll, Dr. Edgar Steiger, Dr. Mandy Schulz
