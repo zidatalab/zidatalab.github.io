@@ -214,11 +214,7 @@ generell Meldedatum und Infektionsereignis der Person nicht
 vor der Meldung stattgefunden. Eine Meldung erfolgt erst nach
 bestätigtem Laborbefund.
 
-![](Methodenbeschreibung_Projektion_COVID-19_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
-
-![](Methodenbeschreibung_Projektion_COVID-19_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
-
-![](Methodenbeschreibung_Projektion_COVID-19_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->![](Methodenbeschreibung_Projektion_COVID-19_files/figure-gfm/unnamed-chunk-3-2.png)<!-- -->
+![](/assets/posts/Methodenbeschreibung_Projektion_COVID-19_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
 
 ## Modellierung
 
@@ -357,7 +353,7 @@ Projektion, das für die Zeit seit dem Stichtag auf Basis der
 prognostizierten und tatsächlichen Fallzahlen der Bundesländer berechnet
 und für den erweiterten Horizont linear fortgeschrieben wurde.
 
-![](Methodenbeschreibung_Projektion_COVID-19_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
+![](/assets/posts/Methodenbeschreibung_Projektion_COVID-19_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
 
 <!-- Die Zi-Modellierung erfasst derzeit fast alle Kreise in Deutschland. Lediglich Kreise, für die eine hinreichende Fallzahl vorliegt, werden ausgewiesen. Derzeit können für folgende Ebenen Projektionen erstellt werden: -->
 
@@ -416,10 +412,6 @@ Ressourcen ausreichend. Es ist aber nicht auszuschließen, dass sich
 dieser Trend verändert, auf einem Niveau \(>1\) einfriert oder sogar
 umkehrt, wenn zu umfassende Lockerungen der Eindämmungsmaßnahmen
 beschlossen werden.
-
-![](Methodenbeschreibung_Projektion_COVID-19_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
-
-![](Methodenbeschreibung_Projektion_COVID-19_files/figure-gfm/unnamed-chunk-6-1.png)<!-- -->
 
 # Anhang
 
