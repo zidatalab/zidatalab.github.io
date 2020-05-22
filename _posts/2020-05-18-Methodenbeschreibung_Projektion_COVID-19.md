@@ -2,7 +2,7 @@
 author: Edgar
 title: Methodenbeschreibung Zi COVID-19-Projektion
 excerpt: "Wie wir unsere Projektionen für das KV-System berechnen."
-categories: [statistics] # Pleaser choose from [news,presentations,articles,projects,reports]
+categories: [reports] # Pleaser choose from [news,presentations,articles,projects,reports]
 tags:
   - covid19
 layout: single
@@ -66,20 +66,20 @@ variierenden Reproduktionszahl durchgeführt (Thompson u. a.
 [2019](#ref-thompson2019improved)) und anschließend ein SIR-Modell für
 die Projektion verwendet (Kermack und McKendrick
 [1991](#ref-kermack1991contributions)). Die zeitlich variierende
-Reproduktionszahl \(R_t\) beschreibt die Dynamik der Übertragbarkeit
+Reproduktionszahl $$R_t$$ beschreibt die Dynamik der Übertragbarkeit
 einer Infektion **während** einer Epidemie (als Erweiterung der
-Basis-Reproduktionszahl \(R_0\), die für eine bestimmte Infektion
+Basis-Reproduktionszahl $$R_0$$, die für eine bestimmte Infektion
 konstant ist und die Übertragbarkeit nur zu Beginn der Epidemie
 beschreibt). Das SIR-Modell ist ein klassisches Modell der
 mathematischen Epidemiologie zur dynamischen Modellierung von
 Infektionskrankheiten. Die Bevölkerung wird in drei Gruppen aufgeteilt:
-\(S\) (“susceptibles”, nicht Infizierte), \(I\) (“infectious”, infiziert
-& ansteckend), sowie \(R\) (“removed”, Genesene und Gestorbene, nicht
+$$S$$ (“susceptibles”, nicht Infizierte), $$I$$ (“infectious”, infiziert
+& ansteckend), sowie $$R$$ (“removed”, Genesene und Gestorbene, nicht
 mehr ansteckend). Auf der Basis von gemeldeten historischen Daten (für
 Deutschland: Robert Koch-Institut “RKI”, <https://corona.rki.de/>,
 international: Johns Hopkins University “JHU”,
 <https://coronavirus.jhu.edu/>) und einer angenommenen Verweildauer im
-Status \(I\) sowie den berechneten \(R_t\) können damit Modellierungen
+Status $$I$$ sowie den berechneten $$R_t$$ können damit Modellierungen
 über die Größe der drei Gruppen durchgeführt werden.
 
 ## Drei Szenarien für die weitere Entwicklung der inzidenten Fälle
@@ -88,7 +88,7 @@ International und national zeigt sich, dass Maßnahmen zur Eindämmung der
 Übertragung Erfolg haben. Wir haben darum in unseren Szenarien die
 Effekte der aktuellen Maßnahmen in Deutschland mit einbezogen. Weiterhin
 lässt sich die beobachtete Entwicklung der zeitlich variierenden
-Reproduktionszahl \(R_t\) als Trend fortschreiben.
+Reproduktionszahl $$R_t$$ als Trend fortschreiben.
 
 ### Szenario 1 “Trend lokal”
 
@@ -96,11 +96,11 @@ In Szenario 1 (“Trend lokal”) berechnen wir für jeden Landkreis, jedes
 Bundesland, Gesamtdeutschland sowie auch internationale Vergleichsländer
 einen eigenen Trend aus den lokalen historischen Daten. Dies bedeutet,
 dass wir die vergangene Entwicklung der zeitlich variierenden
-Reproduktionszahl \(R_t\) berücksichtigen und projizieren auf dieser
-Basis die zukünftige Entwicklung von \(R_t\) und damit der Fallzahlen.
-Ist das derzeitige \(R_t\) größer als \(0{,}7\), wird der Trend bis zu
-diesem Wert fortgeschrieben und danach konstant gehalten. Sollte \(R_t\)
-derzeit bereits kleiner als \(0{,}7\) sein, wird es konstant auf dem
+Reproduktionszahl $$R_t$$ berücksichtigen und projizieren auf dieser
+Basis die zukünftige Entwicklung von $$R_t$$ und damit der Fallzahlen.
+Ist das derzeitige $$R_t$$ größer als $$0{,}7$$, wird der Trend bis zu
+diesem Wert fortgeschrieben und danach konstant gehalten. Sollte $$R_t$$
+derzeit bereits kleiner als $$0{,}7$$ sein, wird es konstant auf dem
 derzeitigen Niveau gehalten, da dies bereits ein sehr günstiges Szenario
 darstellt.
 
@@ -116,11 +116,11 @@ ungünstiger Entwicklung bedeutet die Anwendung des bundesdeutschen
 Trends eventuell ein “Best Case”-Szenario, da sich die Ansteckungsrate
 in Deutschland derzeit sehr positiv darstellt.
 
-### Szenario 3 “Worst Case \(R_t\)=1,3”
+### Szenario 3 “Worst Case $$R_t$$=1,3”
 
 In Szenario 3 modellieren wir ein “Worst Case”-Szenario, bei dem die
-derzeitige Reproduktionszahl \(R_t\) innerhalb von 7 Tagen ein Niveau
-von \(1{,}3\) anstrebt und dann dort verharrt. Dies bedeutet ein
+derzeitige Reproduktionszahl $$R_t$$ innerhalb von 7 Tagen ein Niveau
+von $$1{,}3$$ anstrebt und dann dort verharrt. Dies bedeutet ein
 erneutes exponentielles Wachstum der Fallzahlen. Wir versuchen damit die
 schwer abschätzbaren Folgen einer zu umfassenden Lockerung der
 Eindämmungsmaßnahmen zu modellieren.
@@ -173,7 +173,7 @@ relevant. Die Betreuung der Patienten wird sicher in ihrem Umfang
 variieren, wir setzen hier lediglich Durchschnittswerte für den
 Behandlungsaufwand von drei Patientengruppen an.
 
-In der Modellgruppe \(I\) sind dies einerseits **Patienten mit niedrigem
+In der Modellgruppe $$I$$ sind dies einerseits **Patienten mit niedrigem
 Behandlungsbedarf** (infiziert und symptomatisch, etwa 56,5 Prozent der
 Infizierten), die in unserem Modell etwa 5 Minuten pro Konsultation alle
 2 Tage benötigen, andererseits **Patienten mit erhöhtem
@@ -183,7 +183,7 @@ benötigen. Bei weiteren 13,8% der Infizierten wird Krankenhaus-Betreuung
 angesetzt, zu 100 fehlende Prozent sind infiziert aber asymptomatisch
 (ohne Behandlung).
 
-Darüber hinaus benötigen bestimmte Patienten in \(R\) ambulante
+Darüber hinaus benötigen bestimmte Patienten in $$R$$ ambulante
 Betreuung, wenn sie in Krankenhaus/ICU-Behandlung waren (**Patienten in
 der Nachsorge**, etwa 66 Prozent der ehemals ICU-behandelten sowie alle
 übrigen Krankenhaus-Behandelten): 20 Minuten pro Konsultation alle 10
@@ -196,7 +196,7 @@ mittlere Tagesarbeitszeit von 8 Stunden dividiert um zu einem Schätzwert
 für die täglich benötigte Versorgungsleistung in VZÄ zu gelangen.
 
 Nicht berücksichtigt haben wir den Bedarf, der durch (verunsicherte)
-nicht-infizierte Patienten (in \(S\)) entsteht, die ärztliche Zeit in
+nicht-infizierte Patienten (in $$S$$) entsteht, die ärztliche Zeit in
 Anspruch nehmen (z.B. Anrufe bei leichten Erkältungssymptomen oder
 Durchführen von SARS-CoV-2-Tests, die sich als negativ herausstellen).
 
@@ -226,24 +226,24 @@ Die aktuelle Modellierung basiert auf den bis zum 19.05.2020 um 23.59
 Uhr beim RKI eingegangenen Meldungen. Insgesamt wurden 175.963 Fälle
 gemeldet.
 
-### Zeitlich variierende Reproduktionszahl \(R_t\)
+### Zeitlich variierende Reproduktionszahl $$R_t$$
 
-Zur Berechnung von \(R_t\) auf den historischen Daten wurde das R-Paket
+Zur Berechnung von $$R_t$$ auf den historischen Daten wurde das R-Paket
 “EpiEstim” verwendet (Thompson u. a.
 [2019](#ref-thompson2019improved); Cori u. a. [2013](#ref-cori2013r0)).
 Für 7-Tages-Fenster wird ein rollender Mittelwert der Reproduktionszahl
 mit einem bayesschen Schätzverfahren bestimmt. Da sich bei der
 Übermittlung der Infektionszahlen an das RKI Meldeverzüge ergeben,
-schließen wir die letzten 3 Tage aus der Berechnung von \(R_t\) aus (der
+schließen wir die letzten 3 Tage aus der Berechnung von $$R_t$$ aus (der
 Großteil der Meldeverzüge verteilt sich auf die letzten drei Tage).
 Ausgehend von diesem Stichtag berechnen wir einen linearen Trend von
-\(R_t\) innerhalb der letzten 5 Tage (wegen des rollenden Mittelwerts
+$$R_t$$ innerhalb der letzten 5 Tage (wegen des rollenden Mittelwerts
 entspricht dies dem Trend der letzten 12 Tage). Dieser Trend wird in
-Szenario 1 und 2 fortgeschrieben bis zu einem Niveau von \(0{,}7\) (und
+Szenario 1 und 2 fortgeschrieben bis zu einem Niveau von $$0{,}7$$ (und
 danach konstant), falls er negativ ist, bei positivem Trend wird bis zu
-einer Reproduktionszahl von \(2{,}5\) fortgeschrieben. Szenario 3
+einer Reproduktionszahl von $$2{,}5$$ fortgeschrieben. Szenario 3
 beschreibt einen linearen Trend vom derzeitigen Niveau bis zum Niveau
-\(1{,}3\) innerhalb von 7 Tagen (und danach konstant).
+$$1{,}3$$ innerhalb von 7 Tagen (und danach konstant).
 
 Nähere Informationen zur Bestimmung der zeitlich variierenden
 Reproduktionszahl finden sich im Appendix.
@@ -251,45 +251,37 @@ Reproduktionszahl finden sich im Appendix.
 ### SIR-Modell
 
 Das zur Projektion verwendete SIR-Modell wird im Appendix beschrieben.
-In unserem Modell wird der Ansteckungsparameter \(\beta\) von den
-empirischen Werten \(R_0\) bzw. \(R_t\) abgeleitet, weiterhin wird der
-Infektionsdauerparameter \(\gamma\) konstant gesetzt als das Inverse der
-Infektionsdauer: \(\gamma=1/14\).
+In unserem Modell wird der Ansteckungsparameter $$\beta$$ von den
+empirischen Werten $$R_0$$ bzw. $$R_t$$ abgeleitet, weiterhin wird der
+Infektionsdauerparameter $$\gamma$$ konstant gesetzt als das Inverse der
+Infektionsdauer: $$\gamma=1/14$$.
 
 ### Andere Ansätze
 
 Das hier verwendete SIR-Modell hat den Vorteil, dass es mit wenig
 Parametern und wenig strukturierten historischen Daten bereits
 angemessene Vorhersagen für die Zukunft erlaubt. Das Modell kann um
-weitere Patientengruppen (z.B. \(E\) für nicht-ansteckende Infizierte,
-\(D\) für Verstorbene, etc.) erweitert werden und außerdem können
+weitere Patientengruppen (z.B. $$E$$ für nicht-ansteckende Infizierte,
+$$D$$ für Verstorbene, etc.) erweitert werden und außerdem können
 saisonale Effekte berücksichtigt werden. Dies bedeutet aber auch immer
 zusätzliche Parameter, die geschätzt oder belegt werden müssen.
 
 Das RKI (Heiden und Buchholz [2020](#ref-rkimodellierung)) verwendet ein
 SEIR-Modell, erweitert um unterschiedlich starke saisonale Effekte und
-unterschiedliche \(R_0\) in Abhängigkeit von potentiellen Erfolgen der
+unterschiedliche $$R_0$$ in Abhängigkeit von potentiellen Erfolgen der
 Mitigationsmaßnahmen. Mögliche Projektionen für den stationären
 Behandlungsbedarf werden abgegeben, aber keine Auswirkungen auf den
 ambulanten Sektor benannt. Ebenso bleibt offen, was das
 wahrscheinlichste Szenario für die zukünftige Entwicklung ist.
 
 Magal und Webb ([2020](#ref-magal2020predicting)) erweitern in ihrem
-technischen Paper das SIR-Modell, indem \(I\) in drei Gruppen
+technischen Paper das SIR-Modell, indem $$I$$ in drei Gruppen
 aufgespaltet wird: asymptomatische Infizierte, sowie symptomatische
 identifizierte Infizierte und symptomatische unidentifizierte
 Infizierte. Für Deutschland prognostizieren sie auf Basis der gemeldeten
 Zahlen eine weiter exponentiell steigende Zahl von Infizierten,
 berücksichtigen aber keine Mitigationsmaßnahmen, da es in dieser
-Veröffentlichung vor allem um die Modellierung geht.
-
-Aksamentov u. a. ([2020](#ref-neher2020covid)) weisen das umfangreichste
-Modell auf, hier werden zusätzlich zum SIR-Modell noch Patientengruppen
-\(E\) (infiziert, noch nicht ansteckend), \(H\) (schwer erkrankt und
-stationär behandelt), \(C\) (ICU-Behandlung) und \(D\) (Todesfälle)
-modelliert, sowie saisonale Einflüsse und unterschiedliche Parameter für
-unterschiedliche Altersgruppen berücksichtigt. Ihre Prognosen beziehen
-sich auch nur auf den stationären Bedarf, die Parameterschätzungen
+Veröffentlichung vor allem um die Modell\), die Parameterschätzungen
 basieren derzeit lediglich auf den historischen Daten aus China bzw.
 Fachveröffentlichungen und Prognosen für verschiedene Länder werden
 damit basierend auf den chinesischen Erfahrungen gemacht.
@@ -306,18 +298,13 @@ abgebildet und modelliert. Insbesondere Ferguson u. a.
 ([2020](#ref-ferguson2020impact)) heben stark die Bedeutung und den
 Einfluss von verschiedenen Mitigationsmaßnahmen hervor.
 
-### Limitationen und Ausbau des Zi-Modells
-
-Im Vergleich zeigt sich, dass das SIR-Modell (Modellierung des
-Infektionsverlaufs) in Kombination mit dynamischen \(R_t\)-Werten
-(Modellierung von Mitigationsmaßnahmen) bereits verlässliche Prognosen
-erlaubt, bzw. einen Korridor zwischen verschiedenen Szenarien.
+### Limitationen und Ausbau des Zi-Mode\)erschiedenen Szenarien.
 
 Eine Limitation fast aller Prognosemodelle ist die Dunkelziffer der
 (eventuell asymptomatischen) Infizierten, die nicht getestet und
 identifiziert werden, aber die Infektion weitergeben können. Eine
-Möglichkeit wäre, zusätzlich zu den Fallzahlen die Todesfälle \(D\) mit
-zu berücksichtigen und auch eine Patientengruppe \(U\) (nicht
+Möglichkeit wäre, zusätzlich zu den Fallzahlen die Todesfälle $$D$$ mit
+zu berücksichtigen und auch eine Patientengruppe $$U$$ (nicht
 identifiziert, aber infiziert) zu modellieren, da die Todesfälle mit
 großer Sicherheit richtig identifiziert sind und eine konstante
 Todesrate bei Infektion angenommen werden kann (Lachmann
@@ -394,22 +381,22 @@ und für den erweiterten Horizont linear fortgeschrieben wurde.
 ## Zusammenfassung
 
 So lange das Ansteckungsrisiko so groß ist, dass jede infizierte Person
-mehr als eine weitere Person ansteckt (mathematisch: \(R_t>1\)), gibt es
+mehr als eine weitere Person ansteckt (mathematisch: $$R_t>1$$), gibt es
 ein exponentielles Wachstum der Infektionszahlen und innerhalb kurzer
 Zeit so viele Infizierte und Erkrankte, dass das Gesundheitssystem
-überlastet wird. Nur ein \(R_t<1\) kann dies verhindern oder diese
+überlastet wird. Nur ein $$R_t<1$$ kann dies verhindern oder diese
 Situation wieder beseitigen. Der internationale Vergleich zeigt, dass
 dies in Ländern wie Südkorea oder China gelungen ist, während in einigen
 Ländern noch exponentielles Wachstum vorliegt, aber sich zum Teil
 günstige Trends abzeichnen. Deustchland steht derzeit mit einer
-günstigen Reproduktionszahl \(<1\) da. Zukunftsprognosen sind
+günstigen Reproduktionszahl $$<1$$ da. Zukunftsprognosen sind
 schwierig, da nur begrenzt Aussagen über den Einfluss von
-Mitigationsmaßnahmen auf \(R_t\) bzw. das Ansteckungsrisiko
+Mitigationsmaßnahmen auf $$R_t$$ bzw. das Ansteckungsrisiko
 quantifiziert werden können. Falls sich der aktuelle Trend fortsetzt und
-ein günstiges Reproduktionsniveau \(<1\) dauerhaft gehalten werden
+ein günstiges Reproduktionsniveau $$<1$$ dauerhaft gehalten werden
 könnte, sind nach unseren Prognosen die ambulanten und stationären
 Ressourcen ausreichend. Es ist aber nicht auszuschließen, dass sich
-dieser Trend verändert, auf einem Niveau \(>1\) einfriert oder sogar
+dieser Trend verändert, auf einem Niveau $$>1$$ einfriert oder sogar
 umkehrt, wenn zu umfassende Lockerungen der Eindämmungsmaßnahmen
 beschlossen werden.
 
@@ -417,18 +404,18 @@ beschlossen werden.
 
 ## A Berechnung des Ansteckungsrisikos: Die zeitlich variierende Reproduktionszahl
 
-Im Unterschied zur Basisreproduktionszahl \(R_0\) berücksichtigt die
+Im Unterschied zur Basisreproduktionszahl $$R_0$$ berücksichtigt die
 zeitlich variierende Reproduktionszahl bzw. Nettoreproduktionszahl
-\(R_t\) auch die fortschreitende Immunisierung der Bevölkerung (nach
-durchstandener Infektion) und Kontrollmaßnahmen. \(R_t\) kann geschätzt
-werden als das Verhältnis von neuen Infektionen zu einem Zeitpunkt \(t\)
+$$R_t$$ auch die fortschreitende Immunisierung der Bevölkerung (nach
+durchstandener Infektion) und Kontrollmaßnahmen. $$R_t$$ kann geschätzt
+werden als das Verhältnis von neuen Infektionen zu einem Zeitpunkt $$t$$
 und der Gesamtinfektiösität aller bereits infizierten Individuen zur
-Zeit \(t\) (Cori u. a. [2013](#ref-cori2013r0)). Das Maß für die
+Zeit $$t$$ (Cori u. a. [2013](#ref-cori2013r0)). Das Maß für die
 Infektiösität eines Individuums ist die sogenannte Verteilung des
 seriellen Intervalls (“serial interval distribution”). Basierend auf der
 Literatur wird hier für diese Verteilung eine Gamma-Verteilung
-(\(\Gamma\)) mit Mittelwertsparameter \(5\) und
-Standardabweichungsparameter \(4\) angenommen (Du u. a.
+($$\Gamma$$) mit Mittelwertsparameter $$5$$ und
+Standardabweichungsparameter $$4$$ angenommen (Du u. a.
 [2020](#ref-du2020serial); Nishiura u. a.
 [2020](#ref-nishiura2020serial)). Die Verteilung beschreibt den
 zufälligen Prozess, wann eine infizierte Person eine andere Person
@@ -438,7 +425,7 @@ Gewicht der Veteilung auf den ersten 10 Tagen liegt. Weitere
 Modellannahmen sind, dass die Zahl der Neuinfizierten einer
 Poissonverteilung folgt und dass die Reproduktionszahl rollend konstant
 geschätzt wird für ein fixes Zeitintervall (hier: 7 Tage). Das
-ermöglicht, \(R_t\) mit bayesschen Verfahren zu schätzen, Details
+ermöglicht, $$R_t$$ mit bayesschen Verfahren zu schätzen, Details
 finden sich bei Thompson u. a. ([2019](#ref-thompson2019improved)).
 
 ## B Prognose der Infektionszahlen: Das SIR-Modell
@@ -446,27 +433,27 @@ finden sich bei Thompson u. a. ([2019](#ref-thompson2019improved)).
 Beim SIR-Modell zur Modellierung von Infektionskrankheiten werden drei
 Gruppen unterschieden:
 
-  - \(S\): “Susceptibles”, nicht infizierte Personen,
+  - $$S$$: “Susceptibles”, nicht infizierte Personen,
 
-  - \(I\): “Infected”, (frisch) infizierte & ansteckende Personen,
+  - $$I$$: “Infected”, (frisch) infizierte & ansteckende Personen,
 
-  - \(R\): “Removed”, nicht mehr ansteckende Personen (genesen oder
+  - $$R$$: “Removed”, nicht mehr ansteckende Personen (genesen oder
     gestorben).
 
 Folgende wichtige Annahmen beinhaltet das Modell:
 
-  - die Reihenfolge der Zustände ist \(S\rightarrow I \rightarrow R\),
+  - die Reihenfolge der Zustände ist $$S\rightarrow I \rightarrow R$$,
     das heißt jede Person kann nur einmal erkranken und genest/stirbt
     letztendlich,
-
-  - die Bevölkerungszahl \(N\) wird für den Modellierungshorizont als
-    konstant angenommen (\(S+I+R=N\), Geburten werden nicht
+\)
+  - die Bevölkerungszahl $$N$$ wird für den Modellierungshorizont als
+    konstant angenommen ($$S+I+R=N$$, Geburten werden nicht
     berücksichtigt),
 
-  - Personen in \(I\) sind mit konstanter Rate \(\beta\) ansteckend,
+  - Personen in $$I$$ sind mit konstanter Rate $$\beta$$ ansteckend,
 
-  - Personen in \(I\) verlassen diesen Zustand mit konstanter Rate
-    \(\gamma\) (genesen oder versterben),
+  - Personen in $$I$$ verlassen diesen Zustand mit konstanter Rate
+    $$\gamma$$ (genesen oder versterben),
 
   - Personen in den drei Gruppen interagieren auf gleiche Weise
     miteinander.
@@ -475,29 +462,27 @@ Unter diesen Annahmen kann die zeitliche Entwicklung der
 Infektionsausbreitung mit einem Differentialgleichungssystem modelliert
 werden:
 
-  - \(\frac{dS}{dt} = -\frac{\beta}{N} \cdot I \cdot S,\)
+  - $$\frac{dS}{dt} = -\frac{\beta}{N} \cdot I \cdot S,$$
 
-  - \(\frac{dI}{dt} = \frac{\beta}{N} \cdot I \cdot S - \gamma \cdot I,\)
+  - $$\frac{dI}{dt} = \frac{\beta}{N} \cdot I \cdot S - \gamma \cdot I,$$
 
-  - \(\frac{dR}{dt} = \gamma \cdot I.\)
+  - $$\frac{dR}{dt} = \gamma \cdot I.$$
 
-Weiterhin gilt, dass die Ansteckungsrate \(R_0\) aus den Parametern des
+Weiterhin gilt, dass die Ansteckungsrate $$R_0$$ aus den Parametern des
 Differentialgleichungssystems geschätzt werden kann:
 
-\(R_0 = \frac{\beta}{\gamma}.\)
+$$R_0 = \frac{\beta}{\gamma}.$$
 
-Umgekehrt kann auch aus bekanntem \(R_0\) und fixem \(\gamma\) der
-Parameter \(\beta\) geschätzt werden.
+Umgekehrt kann auch aus bekanntem $$R_0$$ und fixem $$\gamma$$ der
+Parameter $$\beta$$ geschätzt werden.
 
 Mit den ermittelten Parametern können Prognosen für die zukünftige
 Verteilung der drei Gruppen abgegeben werden. Ebenso lässt sich bei
-Konstanthaltung von \(\gamma\) mit Variierung von \(R_0\) bzw. \(\beta\)
+Konstanthaltung von $$\gamma$$ mit Variierung von $$R_0$$ bzw. $$\beta$$
 der zukünftige Einfluss von ansteckungsverhindernden Maßnahmen
 modellieren.
 
 # Literatur
-
-<div id="refs" class="references">
 
 <div id="ref-neher2020covid">
 
@@ -633,7 +618,7 @@ DOI [https://doi.org/10.1016/j.epidem.2019.100356](https://doi.org/https://doi.
 VERITY, Robert u. a., 2020. Estimates of the severity of coronavirus
 disease 2019: a model-based analysis. *The Lancet infectious diseases*.
 2020.
-DOI [10.1016/S1473-3099(20)30243-7](https://doi.org/10.1016/S1473-3099\(20\)30243-7)
+DOI [10.1016/S1473-3099(20)30243-7](https://doi.org/10.1016/S1473-3099$$20$$30243-7)
 
 </div>
 
@@ -653,4 +638,3 @@ Disease 2019 (COVID-19)* \[online\]. 2020. Verfügbar unter:
 
 </div>
 
-</div>
