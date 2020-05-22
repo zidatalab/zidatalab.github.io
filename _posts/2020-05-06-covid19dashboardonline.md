@@ -3,7 +3,8 @@ author: Lars
 title: Our Public COVID-19 Dashboard is online
 header:
   overlay_image: assets/posts/2020-05-22-covid_dashboard_on_kbv.png
-  overlay_filter: 0.7
+  overlay_filter: 0.5
+  caption: "Photo: [**KBV Homepage**](https://www.kbv.de/)"
 excerpt: "We created a dashboard in early May to inform the public about the Zi's assessment of the federal government's relaxation decisions."
 categories: [news] # Pleaser choose from [news,presentations,articles,projects,reports]
 tags:
