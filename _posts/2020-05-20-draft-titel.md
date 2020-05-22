@@ -1,8 +1,11 @@
 ---
-layout: post
-title:  "Test"
+author: Anja
+layout: single
+title:  "Test Python post"
 date:   2020-05-20
 ---
+
+Simple Python NB post test..
 
 ```python
 import matplotlib.pyplot as plt

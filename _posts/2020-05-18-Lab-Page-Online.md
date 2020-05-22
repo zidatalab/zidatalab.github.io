@@ -4,7 +4,7 @@ title: Our Lab Page is online
 header: # Only if usefull!
   overlay_filter: 0.3
   overlay_image: https://zi.de/fileadmin/images/content/Slider/Slider_Das_Zi_Format.jpg
-excerpt: ""
+excerpt: "We now have a simple Jekyll Blog to post updates from our lab work."
 categories: [news] # Pleaser choose from [news,presentations,articles,projects,reports]
 tags:
   - Lab News
