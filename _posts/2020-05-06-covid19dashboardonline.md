@@ -1,7 +1,9 @@
 ---
 author: Lars
 title: Our Public COVID-19 Dashboard is online
-overlay_image: assets/posts/2020-05-22-covid_dashboard_on_kbv.png
+header:
+  overlay_image: assets/posts/2020-05-22-covid_dashboard_on_kbv.png
+  overlay_opacity: .3
 excerpt: "We created a dashboard in early May to inform the public about the Zi's assessment of the federal government's relaxation decisions."
 categories: [news] # Pleaser choose from [news,presentations,articles,projects,reports]
 tags:
