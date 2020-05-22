@@ -482,8 +482,7 @@ DOI [10.1093/aje/kwt133](https://doi.org/10.1093/aje/kwt133)
 
 <div id="ref-dgepi2020stellungnahme"></div>
 
-DGEPI, 2020. *Stellungnahme der Deutschen Gesellschaft für Epidemiologie
-(DGEpi) zur Verbreitung des neuen Coronavirus (SARS-CoV-2). 2020. Verfügbar unter: <https://www.dgepi.de/assets/Stellungnahmen/Stellungnahme2020Corona_DGEpi-21032020-v2.pdf>
+DGEPI, 2020. *Stellungnahme der Deutschen Gesellschaft für Epidemiologie (DGEpi) zur Verbreitung des neuen Coronavirus (SARS-CoV-2). 2020. [Download](https://www.dgepi.de/assets/Stellungnahmen/Stellungnahme2020Corona_DGEpi-21032020-v2.pdf)
 
 
 <div id="ref-du2020serial"></div>
@@ -580,7 +579,7 @@ DOI [10.3760/cma.j.issn.0254-6450.2020.02.003](https://doi.org/10.3760/cma.j.is
 
 <div id="ref-thompson2019improved"></div>
 
-THOMPSON, R. N. u. a., 2019. Improved inference of time-varying reproduction numbers during infectious disease outbreaks. *Epidemics*. 2019. Bd. 29, S. 100356. DOI [https://doi.org/10.1016/j.epidem.2019.100356](https://doi.org/https://doi.org/10.1016/j.epidem.2019.100356)
+THOMPSON, R. N. u. a., 2019. Improved inference of time-varying reproduction numbers during infectious disease outbreaks. Epidemics. 2019. Bd. 29, S. 100356. DOI [https://doi.org/10.1016/j.epidem.2019.100356](https://doi.org/https://doi.org/10.1016/j.epidem.2019.100356)
 
 <div id="ref-verity2020estimates"></div>
 
