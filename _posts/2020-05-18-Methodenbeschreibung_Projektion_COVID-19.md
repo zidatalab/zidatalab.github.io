@@ -425,7 +425,7 @@ Folgende wichtige Annahmen beinhaltet das Modell:
   - die Reihenfolge der Zustände ist $$S\rightarrow I \rightarrow R$$,
     das heißt jede Person kann nur einmal erkranken und genest/stirbt
     letztendlich,
-\)
+
   - die Bevölkerungszahl $$N$$ wird für den Modellierungshorizont als
     konstant angenommen ($$S+I+R=N$$, Geburten werden nicht
     berücksichtigt),
@@ -442,11 +442,11 @@ Unter diesen Annahmen kann die zeitliche Entwicklung der
 Infektionsausbreitung mit einem Differentialgleichungssystem modelliert
 werden:
 
-  - $$\frac{dS}{dt} = -\frac{\beta}{N} \cdot I \cdot S,$$
+$$\frac{dS}{dt} = -\frac{\beta}{N} \cdot I \cdot S,$$
 
-  - $$\frac{dI}{dt} = \frac{\beta}{N} \cdot I \cdot S - \gamma \cdot I,$$
+$$\frac{dI}{dt} = \frac{\beta}{N} \cdot I \cdot S - \gamma \cdot I,$$
 
-  - $$\frac{dR}{dt} = \gamma \cdot I.$$
+$$\frac{dR}{dt} = \gamma \cdot I.$$
 
 Weiterhin gilt, dass die Ansteckungsrate $$R_0$$ aus den Parametern des
 Differentialgleichungssystems geschätzt werden kann:
