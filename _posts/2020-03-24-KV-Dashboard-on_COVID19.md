@@ -2,7 +2,7 @@
 author: Lars
 title: Our internal KV COVID-19 Dashboard is online
 header:
-    overlay_image: /assets/posts/2020-05-22-Zi_COVID19_Projektionen.png
+    overlay_image: assets/posts/2020-05-22-Zi_COVID19_Projektionen.png
     overlay_opacity: 0.3
 excerpt: "We created a dashboard in early March to inform the KV Executives about the Zi's projections for future COVID19 developments."
 categories: [news] # Pleaser choose from [news,presentations,articles,projects,reports]
