@@ -11,30 +11,10 @@ read_time: false
 comments: false
 share: false
 related: false
+toc: true
 ---
 
 Dr. Lars Eric Kroll, Dr. Edgar Steiger, Dr. Mandy Schulz
-
-  - [Stand](#stand)
-  - [Zusammenfassung](#zusammenfassung)
-  - [Methoden](#methoden)
-      - [Projektion der inzidenten
-        Fälle](#projektion-der-inzidenten-fälle)
-      - [Drei Szenarien für die weitere Entwicklung der inzidenten
-        Fälle](#drei-szenarien-für-die-weitere-entwicklung-der-inzidenten-fälle)
-      - [Projektion des stationären
-        Behandlungsbedarfs](#projektion-des-stationären-behandlungsbedarfs)
-      - [Daten und Projektion des ambulanten
-        Behandlungsbedarfs](#daten-und-projektion-des-ambulanten-behandlungsbedarfs)
-  - [Aktuelle Daten](#aktuelle-daten)
-      - [Modellierung](#modellierung)
-      - [Zusammenfassung](#zusammenfassung-1)
-  - [Anhang](#anhang)
-      - [A Berechnung des Ansteckungsrisikos: Die zeitlich variierende
-        Reproduktionszahl](#a-berechnung-des-ansteckungsrisikos-die-zeitlich-variierende-reproduktionszahl)
-      - [B Prognose der Infektionszahlen: Das
-        SIR-Modell](#b-prognose-der-infektionszahlen-das-sir-modell)
-  - [Literatur](#literatur)
 
 # Stand
 
