@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "News from the Lab"
-    url: /categories/
+    url: /news/
   #- title: "Projects"
   #  url: /projects/
   - title: "Team"
