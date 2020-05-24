@@ -14,3 +14,12 @@ The Zi Data Science Lab is a team inside the Central Institute of Ambulatory Car
 ### Mission
 
 Our mission is to use modern techniques to assist ambulatory care in Germany.
+
+### COVID-19
+
+We are providing different tools to assist the National Association of Statutory Health Insurance Physicians and the regional Associations of Statutory Health Insurance Physicians in this special times. 
+
+This is our current situation assessment:
+
+{% include assets/html/Frühindikatoren_BOX.html %}
+
