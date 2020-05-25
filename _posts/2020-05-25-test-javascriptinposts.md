@@ -10,11 +10,9 @@ title:  "Test Javascript post"
 
 *Zi Frühindikatoren für Deutschland Stand: <span id="ZICOVIDFI_Stand"></span> 0:00 Uhr*
 
-R-Wert: <strong><span id="ZICOVIDFI_RWert"></span></strong>
-
-Neue Fälle pro Tag: <strong><span id="ZICOVIDFI_FaelleproTag"></span></strong>
-
-Vorwarnzeit: <strong><span id="ZICOVIDFI_Vorwarnzeit"></span> Tage</strong>
+- R-Wert: **<span id="ZICOVIDFI_RWert"></span>**
+- Neue Fälle pro Tag: **<span id="ZICOVIDFI_FaelleproTag"></span>**
+- Vorwarnzeit: **<span id="ZICOVIDFI_Vorwarnzeit">**
   
 Weitere Informationen finden Sie [hier](https://zidatalab.github.io/covid19dashboard/Start)
 
