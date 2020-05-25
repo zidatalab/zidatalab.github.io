@@ -6,10 +6,6 @@ title:  "Test Javascript post"
 
 # Check if Javascript is working
 
-**Check if it works via include:**
-
-{% include assets/html/Frühindikatoren_BOX.html %}
-
 **Markdown**
 
 Zi Frühindikatoren für Deutschland <p>Stand: <span id="ZICOVIDFI_Stand"></span> 0:00 Uhr
