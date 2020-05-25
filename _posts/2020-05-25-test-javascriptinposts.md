@@ -28,3 +28,7 @@ xmlhttp.onreadystatechange = function() {
 xmlhttp.open("GET", "https://raw.githubusercontent.com/zidatalab/covid19dashboard/master/data/frueindikatoren.json", true);
 xmlhttp.send();
 </script>
+
+**Check if it works via include:**
+
+{% include assets/html/Frühindikatoren_BOX.html %}
