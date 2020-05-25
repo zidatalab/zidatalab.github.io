@@ -12,7 +12,7 @@ title:  "Test Javascript post"
 
 - R-Wert: **<span id="ZICOVIDFI_RWert"></span>**
 - Neue Fälle pro Tag: **<span id="ZICOVIDFI_FaelleproTag"></span>**
-- Vorwarnzeit: **<span id="ZICOVIDFI_Vorwarnzeit">**
+- Vorwarnzeit: **<span id="ZICOVIDFI_Vorwarnzeit"></span>**
   
 Weitere Informationen finden Sie [hier](https://zidatalab.github.io/covid19dashboard/Start)
 
