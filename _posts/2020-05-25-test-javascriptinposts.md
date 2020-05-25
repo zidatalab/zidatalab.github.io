@@ -4,9 +4,21 @@ layout: single
 title:  "Test Javascript post"
 ---
 
-Check if Javascript is working:
+# Check if Javascript is working
 
-<div style="background-image: linear-gradient(#092f4d90, #092f4d90),url(https://www.kbv.de/images/contentbilder_m/header_corona_742.jpg); color: white;font-family: sans-serif;padding:1em;width: 350px;"><h3>Zi Frühindikatoren für Deutschland</h3><p>Stand: <span id="ZICOVIDFI_Stand"></span> 0:00 Uhr</p><p>R-Wert: <strong><span id="ZICOVIDFI_RWert"></span></strong><br>Neue Fälle pro Tag: <strong><span id="ZICOVIDFI_FaelleproTag"></span></strong><br>Vorwarnzeit: <strong><span id="ZICOVIDFI_Vorwarnzeit"></span> Tage</strong><br></p><p><span>Weitere Informationen finden Sie <a style="color:white;font-style: normal;"href="https://zidatalab.github.io/covid19dashboard/Start"><strong>hier<strong></a></span></p></div>
+**Check if it works via include:**
+
+{% include assets/html/Frühindikatoren_BOX.html %}
+
+**Markdown**
+
+Zi Frühindikatoren für Deutschland <p>Stand: <span id="ZICOVIDFI_Stand"></span> 0:00 Uhr
+R-Wert: <strong><span id="ZICOVIDFI_RWert"></span></strong>
+Neue Fälle pro Tag: <strong><span id="ZICOVIDFI_FaelleproTag"></span></strong>
+Vorwarnzeit: <strong><span id="ZICOVIDFI_Vorwarnzeit"></span> Tage</strong>
+  
+Weitere Informationen finden Sie [hier](https://zidatalab.github.io/covid19dashboard/Start)
+
 
 <script>
 var today = new Date();
@@ -28,7 +40,3 @@ xmlhttp.onreadystatechange = function() {
 xmlhttp.open("GET", "https://raw.githubusercontent.com/zidatalab/covid19dashboard/master/data/frueindikatoren.json", true);
 xmlhttp.send();
 </script>
-
-**Check if it works via include:**
-
-{% include assets/html/Frühindikatoren_BOX.html %}
