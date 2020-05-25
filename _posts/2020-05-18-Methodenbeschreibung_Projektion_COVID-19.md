@@ -278,7 +278,7 @@ abgebildet und modelliert. Insbesondere Ferguson u. a.
 ([2020](#ref-ferguson2020impact)) heben stark die Bedeutung und den
 Einfluss von verschiedenen Mitigationsmaßnahmen hervor.
 
-### Limitationen und Ausbau des Zi-Mode\)erschiedenen Szenarien.
+### Limitationen 
 
 Eine Limitation fast aller Prognosemodelle ist die Dunkelziffer der
 (eventuell asymptomatischen) Infizierten, die nicht getestet und
