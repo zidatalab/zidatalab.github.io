@@ -8,7 +8,8 @@ title:  "Test Javascript post"
 
 **Markdown**
 
-Zi Frühindikatoren für Deutschland <p>Stand: <span id="ZICOVIDFI_Stand"></span> 0:00 Uhr
+*Zi Frühindikatoren für Deutschland Stand: <span id="ZICOVIDFI_Stand"></span> 0:00 Uhr*
+
 R-Wert: <strong><span id="ZICOVIDFI_RWert"></span></strong>
 Neue Fälle pro Tag: <strong><span id="ZICOVIDFI_FaelleproTag"></span></strong>
 Vorwarnzeit: <strong><span id="ZICOVIDFI_Vorwarnzeit"></span> Tage</strong>
