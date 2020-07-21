@@ -19,5 +19,9 @@ Edgar:
       - label: "Twitter"
         icon: "fab fa-fw fa-twitter-square"
         url: "https://twitter.com/edquartett"
-
-        
+Tobias:
+  name    : "Tobias Mussgnug"
+  bio         : "Data Scientist"
+  avatar      : "/assets/images/robot-min.jpg"
+  
+  
