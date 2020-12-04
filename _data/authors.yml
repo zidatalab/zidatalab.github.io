@@ -23,5 +23,9 @@ Tobias:
   name    : "Tobias Mussgnug"
   bio         : "Health Scientist"
   avatar      : "/assets/images/robot-min.jpg"
+Kodjo:
+  name    : "Dr. Kodjo Vissiennon"
+  bio         : "Data Scientist"
+  avatar      : "/assets/images/robot-min.jpg"
   
   
