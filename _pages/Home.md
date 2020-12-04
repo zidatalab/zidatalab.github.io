@@ -9,7 +9,7 @@ excerpt:
 
 ---
 
-The Zi Data Science Lab is a team inside the Central Institute of Ambulatory Care (Zi) in Germany. 
+The Zi Data Science Lab is a Team inside the Department "[Data Science and Health Care Analysis](https://www.zi.de/das-zi/fachbereiche/data-science-und-versorgungsanalysen)" of the Central Institute of Ambulatory Care ([Zi](https://www.zi.de)) in Germany. 
 
 ### Mission
 
