@@ -15,15 +15,15 @@ We are projecting COVID-19 in Germany since Mid March 2020. Results may be obtai
 
 ### Dashboards
 
-We created two Dashboards with assessments of the current state of COVID-19 in Germany:
+We created Dashboards with assessments of the current state of COVID-19 in Germany:
 
 **Public Dashboard**
 
-This dashboard is written in `R` and based on `flexdashboard` (only javascript) and hosted on github pages. [See it in action](https://www.zidatasciencelab.de/covid19dashboard/Start").
+- *Zi-Frühindikatoren* This dashboard is written in `R` and based on `flexdashboard` (only javascript) and hosted on github pages. [See it in action](https://www.zidatasciencelab.de/covid19dashboard/Start").
 
-**Internal Dashboard**
+**Private Dashboard**
 
-Area specific projections and international comparisons are available from [here](https://https://covid-19-monitor.azurewebsites.net/).
+None to be anounced.
 
 ### Other Stuff
 
