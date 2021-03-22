@@ -20,7 +20,7 @@ We created Dashboards with assessments of the current state of COVID-19 in Germa
 **Public Dashboard**
 
 - *Simulation der COVID-19 Impfkampagne* This dashboard is written in `Angular` and has a `R` backend vor Data Wrangling and Input creation. It provides a topical overview of the next weeks regarding [COVID-19 Vaccination in Germany](https://www.zidatasciencelab.de/cov19vaccsim/), Methods are [here](https://www.zidatasciencelab.de/cov19vaccsim/Methoden).
-- *Zi-Frühindikatoren* This dashboard is written in `R` and based on `flexdashboard` (only javascript) and hosted on github pages. [See it in action](https://www.zidatasciencelab.de/covid19dashboard/Start").
+- *Zi-Frühindikatoren* This dashboard is written in `R` and based on `flexdashboard` (only javascript) and hosted on github pages. [See it in action](https://www.zidatasciencelab.de/covid19dashboard/Start).
 
 **Private Dashboard**
 
