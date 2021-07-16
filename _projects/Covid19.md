@@ -11,7 +11,7 @@ excerpt: "Overview on our Projections, Analysis and Products regarding COVID-19 
 
 ### Projections
 
-We are projecting COVID-19 in Germany since Mid March 2020. Results may be obtained from our [Corona-Dashboard](https://www.zidatasciencelab.de/covid19dashboard/Start").
+We are projecting COVID-19 in Germany since Mid March 2020. Results may be obtained from our [Corona-Dashboard](https://www.zidatasciencelab.de/covid19dashboard/Start).
 
 ### Dashboards
 
