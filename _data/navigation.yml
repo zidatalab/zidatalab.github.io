@@ -8,4 +8,5 @@ main:
     url: /team/
   - title: "About"
     url: /about/
- 
+  - title: "Status"
+    url: https://status.zidatasciencelab.de
