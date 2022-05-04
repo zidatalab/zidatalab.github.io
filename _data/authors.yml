@@ -27,5 +27,17 @@ Kodjo:
   name    : "Dr. Kodjo Vissiennon"
   bio         : "Data Scientist"
   avatar      : "/assets/images/robot-min.jpg"
+Britta:
+  name    : "Britta L."
+  bio         : "Data Analyst"
+  avatar      : "/assets/images/robot-min.jpg"
+TobiasS:
+  name    : "Tobias S."
+  bio         : "Data Analyst"
+  avatar      : "/assets/images/robot-min.jpg"
+Benjamin:
+  name    : "Dr. Benjamin J."
+  bio         : "Psychologist"
+  avatar      : "/assets/images/robot-min.jpg"
   
   
