@@ -1,12 +1,11 @@
 # main links
 main:
-  #- title: "News"
-  #  url: /news/
-  - title: "Projects"
-    url: /projects/
-  - title: "Team"
-    url: /team/
   - title: "About"
     url: /about/
-  - title: "Status"
-    url: https://status.zidatasciencelab.de
+  - title: "Team"
+    url: /team/
+  - title: "News"
+    url: /news/
+  - title: "Projects"
+    url: /projects/
+  
