@@ -18,4 +18,4 @@ Our mission is to use modern techniques to assist ambulatory care in Germany.
 
 ### Public Code Repository
 
-Visit us on our <i class="fa-brands fa-github"></i> **[GitHub Organization](https://github.com/zidatalab)** to see our latest work.
+Visit us on our <i class="fab fa-brands fa-github"></i> **[GitHub Organization](https://github.com/zidatalab)** to see our latest work.
