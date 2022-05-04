@@ -16,3 +16,6 @@ The Zi Data Science Lab is a Team inside the Department "[Data Science and Healt
 Our mission is to use modern techniques to assist ambulatory care in Germany.
 
 
+### Our Public Code Repository
+
+Come visit us on our **[GitHub Organization](https://github.com/zidatalab)** and see our latests public work.
