@@ -6,7 +6,7 @@ tags:
   - infrastructure
   - kvappradar
   - status
-layout: single
+layout: status
 author_profile: false
 read_time: false
 comments: false
