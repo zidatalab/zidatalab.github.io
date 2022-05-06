@@ -10,7 +10,7 @@ $sans-serif : 'Open Sans', sans-serif;
 $monospace  : Monaco, Consolas, "Lucida Console", monospace;
 $global-font-family : $sans-serif;
 $header-font-family : $sans-serif;
-$doc-font-size: 11;
+$doc-font-size: 9;
 
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
