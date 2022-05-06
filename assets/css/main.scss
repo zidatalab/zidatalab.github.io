@@ -38,8 +38,9 @@ $doc-font-size: 9;
 .statusbadge {
   font-weight: bold;
   font-size: 0.8rem;
-  margin:.1rem;
-  padding:.1rem;
+  margin:1.3rem;
+  padding:.3rem;
+  border-radius: 7px ;
   background-color: rgb(0, 128, 255);
   color: white;
 }
