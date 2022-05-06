@@ -34,3 +34,12 @@ $doc-font-size: 9;
 .site-logo img {
   max-height: 1.1rem;
 }
+
+.statusbadge {
+  font-weight: bold;
+  font-size: 0.8rem;
+  margin:.1rem;
+  padding:.1rem;
+  background-color: rgb(0, 128, 255);
+  color: white;
+}

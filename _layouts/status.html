@@ -17,7 +17,7 @@ layout: default
           Thema:&nbsp;  <strong>{{page.title}}</strong><br>
           Beginn:&nbsp; <strong>{{page.Beginn}}</strong><br>
           Ende:&nbsp;&nbsp;   <strong>{{page.Ende}}</strong><br>
-          Status:&nbsp; <strong>{{page.Status}}</strong>
+          Status:&nbsp; <span class="statusbadge">{{page.Status}}</span>
         </p>
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
