@@ -15,7 +15,7 @@ related: false
 
 ---
 
-# Unsere Statuspage
+### Statuspage Offline
 
 Zwischendurch hatten wir unter https://status.zidatasciencelab.de eine github basierte Statusseite zum Status unserer 
 Dienste online. Diese Seite mussten wir aufgrund von mangelhaften Fähigkeiten Probleme manuell zu beschreiben, wieder vom Netz nehmen. Wir hatten das Tool https://github.com/upptime/upptime genutzt.
