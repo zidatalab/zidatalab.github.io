@@ -6,6 +6,7 @@ categories: [news] # Pleaser choose from [news,presentations,articles,projects,r
 tags:
   - infrastructure
   - kvappradar
+  - status
 layout: single
 author_profile: true
 read_time: false
