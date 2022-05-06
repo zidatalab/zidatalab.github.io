@@ -14,10 +14,10 @@ permalink: /status/
 ### Meldungen
 
 {% for post in site.posts %}
-     {% if post.categories contains status | downcase %}
-     <div class="entries-{{ page.entries_layout | default: 'list' }}">
-     {% include archive-single.html type=page.entries_layout %}
-     </div>
+     {% if post.categories contains 'status' | downcase %}
+     <li>
+     <a href="">{{post.tile}}</a>
+     </li>
      {% endif %}
 {% endfor %}
 
