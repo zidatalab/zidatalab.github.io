@@ -14,9 +14,9 @@ permalink: /status/
 ### Meldungen
 
 
-<div class="entries-{{ page.entries_layout | default: 'list' }}">
-{% for post in site.categories[status] %} 
-{% include archive-single.html type=page.entries_layout %}
+{% for post in site.posts %}
+  
+  <li>{{ post.title }}</li>
+  
 {% endfor %}
-</div>
 
