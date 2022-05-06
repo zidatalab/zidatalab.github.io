@@ -16,8 +16,7 @@ permalink: /status/
 {% for post in site.posts %}
 {% if post.categories contains 'status' | downcase %}
 <li>
-<a href="{{post.url}}">{{post.title}}</a><br>
-Beginn: {{post.Beginn}} Status: <span class="statusbadge">{{post.Status}}</span>
+<a href="{{post.url}}">{{post.title}}</a><span class="statusbadge">{{post.Status}}</span>
 </li>
 {% endif %}
 {% endfor %}

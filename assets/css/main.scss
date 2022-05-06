@@ -7,7 +7,7 @@ $link-color: black;
 $primary-color: black;
 $global-font-family : $sans-serif;
 $header-font-family : $sans-serif;
-$doc-font-size: 9 !default;
+
 
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
