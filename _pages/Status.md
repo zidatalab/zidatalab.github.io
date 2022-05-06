@@ -13,11 +13,10 @@ permalink: /status/
 
 ### Meldungen
 
-   {% for post in site.posts %}
-    {% if post.categories contains {{status}}  %}
-      <a href="{{ post.url }}" target="_self" draggable="false">
-      {{ post.title }}
-      </a>
-    {% endif %}
-    {% endfor %}
+
+<div class="entries-{{ page.entries_layout | default: 'list' }}">
+{% for post in site.categories[status] %} 
+{% include archive-single.html type=page.entries_layout %}
+{% endfor %}
+</div>
 
