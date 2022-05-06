@@ -15,7 +15,9 @@ permalink: /status/
 
 {% for post in site.posts %}
      {% if post.categories contains status | downcase %}
+     <div class="entries-{{ page.entries_layout | default: 'list' }}">
      {% include archive-single.html type=page.entries_layout %}
+     </div>
      {% endif %}
 {% endfor %}
 
