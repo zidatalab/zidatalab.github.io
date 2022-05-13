@@ -27,4 +27,4 @@ Der bei Neuigkeiten zum Thema aktualisiert wird. Ein kommerzielles Angebot wie e
 
 **Update 13.05.2022**
 
-Die Statuspage ist zurück. Sie ist nun hier: https://www.zidatasciencelab.de/status/
+Die Statuspage ist zurück. Sie ist nun hier [https://www.zidatasciencelab.de/status/](https://www.zidatasciencelab.de/status/) verfügbar.
