@@ -1,10 +1,9 @@
 ---
 author: Lars
-title: Teststatusmeldung zur Infrastruktur
+title: Statuspage Online
 categories: [status]
 tags:
   - infrastructure
-  - kvappradar
   - status
 layout: status
 author_profile: false
@@ -13,7 +12,7 @@ comments: false
 share: 
 related: false
 Beginn: '06.05.2022 12:00'
-Ende:   '06.05.2022 13:00'
+Ende:   '13.05.2022 13:00'
 Status: Behoben
 
 
@@ -21,16 +20,15 @@ Status: Behoben
 
 ### Problembeschreibung
 
-Text
+Service für Statuspage musste migriert werden.
 
 ### Updates
 
-- 12:00 Wir beginnen mit der Untersuchung
-- 13:00 Wir sind fertig
+keine
 
 ### Lösungsbeschreibung
 
-
+Neue Statuspage auf Basis einer unabhängigen VM und einer unabhängigen Postgresdatenbank sowie Datawrapper implementiert.
 
 
 
