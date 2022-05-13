@@ -6,6 +6,8 @@ main:
     url: /team/
   - title: "News"
     url: /news/
+  - title: "Status"
+    url: /status/  
   - title: "Projects"
     url: /projects/
   
