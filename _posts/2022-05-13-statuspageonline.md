@@ -1,12 +1,12 @@
 ---
 author: Lars
-title: Statuspage Online
+title: Migration Statuspage
 categories: [status]
 tags:
   - infrastructure
   - status
 layout: status
-author_profile: false
+author_profile: true
 read_time: false
 comments: false
 share: 
